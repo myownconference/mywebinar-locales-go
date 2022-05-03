@@ -1,2 +1,1 @@
-# mywebinar-locales-go
-⚩ Locales for MyOwnConference webinar room
+# Locales for MyOwnConference webinar room
