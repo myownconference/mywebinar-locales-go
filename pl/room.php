@@ -2104,7 +2104,7 @@ return array(
 	'login-cookies-text' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nasza strona korzysta z plików cookies w celu ułatwienia korzystania z naszej strony internetowej, panelu klienta i pokoju webinarowego. Zakładamy, że nie masz nic przeciwko, ale możesz także zrezygnować z zapisywania plików cookies.
+		My używaj bezpiecznych plików cookie do przechowywania Twojej sesji dopóki jesteś zalogowany do panelu sterowania i pokoje webinarowe. A także dla widżetu pomocy online.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookie-settings' => /////////////////////////////////////////////////////////////////
