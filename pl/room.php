@@ -1806,11 +1806,11 @@ return array(
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wyrażam zgodę na przetwarzanie moich danych osobowych wskazanych w formularzu na potrzeby organizacji mojego uczestnictwa w webinarze zaplanowanym przez organizatora webinaru oraz potwierdzam zapoznanie się z <a href="https://myownconference.pl/privacy-policy.php" target="_blank">Polityką przetwarzania i ochrony danych</a>. Wyrażenie zgody jest dobrowolne, ale obligatoryjne dla realizacji celu formularza.
+		Wyrażam zgodę na przetwarzanie moich danych osobowych wskazanych w formularzu na potrzeby organizacji mojego uczestnictwa w webinarze zaplanowanym przez organizatora webinaru oraz potwierdzam zapoznanie się z <a href="https://myownconference.com/pl/privacy-policy.php" target="_blank">Polityką przetwarzania i ochrony danych</a>. Wyrażenie zgody jest dobrowolne, ale obligatoryjne dla realizacji celu formularza.
 		<br><br>
 		Nasza strona korzysta z plików cookies w celu ułatwienia korzystania z naszej strony internetowej, panelu klienta i pokoju webinarowego. To ułatwia nam jak najlepsze dostosowanie się do Twoich potrzeb. Wykorzystujemy tylko sesyjne pliki cookies. Są one wymagane i tworzą się podczas odwiedzania naszej strony internetowej, logowania w panelu klienta lub w pokoju webinarowym. Sesyjne pliki cookie są przechowywane w postaci zaszyfrowanej na Twoim komputerze i są automatycznie usuwane 180 dni po ostatnim użyciu naszych usług.
 		<br><br>
-		Używamy również plików cookie stron trzecich, które pomagają nam analizować i zrozumieć, w jaki sposób korzystasz z naszej strony internetowej, panelu klienta i pokoju webinarowego. Te pliki cookie będą przechowywane w przeglądarce tylko za Twoją zgodą. Możesz zmienić ustawienia przeglądarki, aby wyłączyć obsługę cookies. Jednak wyłączenie cookies może przeszkadzać w pełnym korzystaniu z witryny internetowej.<br><br>Możesz zapoznać się z pełną wersją zasad przetwarzania i ochrony danych pod <a href="https://myownconference.pl/cookies-policy.php" target="_blank">tym linkiem</a>.
+		Używamy również plików cookie stron trzecich, które pomagają nam analizować i zrozumieć, w jaki sposób korzystasz z naszej strony internetowej, panelu klienta i pokoju webinarowego. Te pliki cookie będą przechowywane w przeglądarce tylko za Twoją zgodą. Możesz zmienić ustawienia przeglądarki, aby wyłączyć obsługę cookies. Jednak wyłączenie cookies może przeszkadzać w pełnym korzystaniu z witryny internetowej.<br><br>Możesz zapoznać się z pełną wersją zasad przetwarzania i ochrony danych pod <a href="https://myownconference.com/privacy-policy.php" target="_blank">tym linkiem</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -2188,7 +2188,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.pl/blog/pl/alternatywna-technologia-transmisji-wideo" target="_blank">Instrukcja instalacji</a>
+		<a href="https://myownconference.com/blog/pl/alternatywna-technologia-transmisji-wideo" target="_blank">Instrukcja instalacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2356,7 +2356,7 @@ return array(
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.pl/blog/pl/memo_pl" class="button">Instrukcja dla uczestnika webinaru</a>
+		<a href="https://myownconference.com/blog/pl/memo_pl" class="button">Instrukcja dla uczestnika webinaru</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2530,7 +2530,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nie możemy się doczekać rozpoczęcia webinaru, ale musimy poczekać trochę dłużej. W międzyczasie zalecamy zapoznać się z <a target="_blank" href="https://myownconference.pl/blog/pl/memo_pl">instrukcją dla uczestnika webinaru</a>.
+		Nie możemy się doczekać rozpoczęcia webinaru, ale musimy poczekać trochę dłużej. W międzyczasie zalecamy zapoznać się z <a target="_blank" href="https://myownconference.com/blog/pl/memo_pl">instrukcją dla uczestnika webinaru</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////
