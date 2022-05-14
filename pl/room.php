@@ -2188,7 +2188,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.pl/blog/pl/index.php/alternatywna-technologia-transmisji-wideo" target="_blank">Instrukcja instalacji</a>
+		<a href="https://myownconference.pl/blog/pl/alternatywna-technologia-transmisji-wideo" target="_blank">Instrukcja instalacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2530,7 +2530,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nie możemy się doczekać rozpoczęcia webinaru, ale musimy poczekać trochę dłużej. W międzyczasie zalecamy zapoznać się z <a target="_blank" href="https://myownconference.pl/blog/pl/index.php/memo_pl">instrukcją dla uczestnika webinaru</a>.
+		Nie możemy się doczekać rozpoczęcia webinaru, ale musimy poczekać trochę dłużej. W międzyczasie zalecamy zapoznać się z <a target="_blank" href="https://myownconference.pl/blog/pl/memo_pl">instrukcją dla uczestnika webinaru</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////
