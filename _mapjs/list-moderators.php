@@ -264,6 +264,8 @@ return array(
 		'cta',
 		'votes',
 		'clicks',
+
+		'strength-jitter',
 	),
 	'tester' => [
 		'tester-results',

@@ -70,5 +70,7 @@ return array(
 
 		'vpn-or-antivirus-problems-title',
 		'vpn-or-antivirus-problems-message',
+
+		'strength-jitter',
 	),
 );
