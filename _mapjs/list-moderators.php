@@ -79,6 +79,10 @@ return array(
 		
 		'start-sharing',
 
+		'continue-material-confirm',
+		'continue',
+		'start-new',
+
 		/*редактор презентаций*/
 		'not-selected-slide',
 		'del-slide',
