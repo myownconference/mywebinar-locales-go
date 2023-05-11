@@ -225,6 +225,7 @@ return array(
 		'user-s-banned',
 		'user-reject-text',
 		'user-s-rejected',
+		'block-until-event-ends',
 		
 		'maybe-full-screen',
 		
