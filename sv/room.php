@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Kontrollera volymen<br/><br/>och tryck på skärmen
+		<br><br><br><br>Kontrollera volymen<br><br>och tryck på skärmen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -831,7 +831,7 @@ return array(
 	'plus100text' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Med det här alternativet kan du omedelbart köpa ytterligare <b><u>100 platser</u></b> för ditt webbseminarium.<br/><br/>Dessa platser kommer att vara tillgängliga för dina deltagare i upp till <b><u>5 timmar</u></b> från det att de köptes. Efter 5 timmar återgår antalet platser till din ursprungliga förpackningsstorlek.
+		Med det här alternativet kan du omedelbart köpa ytterligare <b><u>100 platser</u></b> för ditt webbseminarium.<br><br>Dessa platser kommer att vara tillgängliga för dina deltagare i upp till <b><u>5 timmar</u></b> från det att de köptes. Efter 5 timmar återgår antalet platser till din ursprungliga förpackningsstorlek.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plus100question' => /////////////////////////////////////////////////////////////////
@@ -1041,7 +1041,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Är du säker på att du permanent vill förbjuda användaren att komma åt rummet?<br/><br/>Om ja, ange anledningen nedan och klicka på &quot;Ja&quot; annars klickar du på &quot;Nej&quot;.
+		Är du säker på att du permanent vill förbjuda användaren att komma åt rummet?<br><br>Om ja, ange anledningen nedan och klicka på &quot;Ja&quot; annars klickar du på &quot;Nej&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1053,7 +1053,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Är du säker på att du vill blockera användaren tillfälligt?<br/><br/>Ange i så fall anledningen nedan, annars klickar du på &quot;Nej&quot;.
+		Är du säker på att du vill blockera användaren tillfälligt?<br><br>Ange i så fall anledningen nedan, annars klickar du på &quot;Nej&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1089,7 +1089,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Din internetanslutning har oväntat avslutats!<br/><br/>Kontrollera internetanslutningen och starta om din webbläsarsida för att återställa sändningen.<br/><br/>Om du upprepade gånger får det här meddelandet måste du kontakta din ISP\'s support för att kontrollera stabiliteten hos internetanslutningen, inklusive Wi-Fi-anslutning.
+		Din internetanslutning har oväntat avslutats!<br><br>Kontrollera internetanslutningen och starta om din webbläsarsida för att återställa sändningen.<br><br>Om du upprepade gånger får det här meddelandet måste du kontakta din ISP\'s support för att kontrollera stabiliteten hos internetanslutningen, inklusive Wi-Fi-anslutning.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1515,7 +1515,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vi använder cookies för att ge dig den bästa användarupplevelsen. Om du fortsätter att använda webbplatsen antar vi att du vill ta emot cookies från oss. Om du vill veta mer om cookies <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">tryck här</a>.
+		Vi använder cookies för att ge dig den bästa användarupplevelsen. Om du fortsätter att använda webbplatsen antar vi att du vill ta emot cookies från oss. Om du vill veta mer om cookies <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">tryck här</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1569,7 +1569,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Du använder ett kostnadsfritt konto som har <a href="{url}" target="_blank">begränsningar</a>
+		Du använder ett kostnadsfritt konto som har <a href="{url}" target="_blank" rel="noopener noreferrer">begränsningar</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return array(
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vi använder cookies för att förbättra din upplevelse medan du navigerar genom vår webbplats. Av dessa cookies lagras de kakor som kategoriseras som nödvändiga i din webbläsare eftersom de är viktiga för att vår grundläggande funktion ska fungera. Vi använder också tredjepartscookies som hjälper oss att analysera och förstå hur du använder vår webbplats. Dessa cookies lagras endast i din webbläsare med ditt samtycke. Du har också möjlighet att välja bort dessa cookies. Men att välja bort några av dessa cookies kan påverka din surfupplevelse.<br><br>Läs mer <a href="https://myownconference.com/cookies-policy.php" target="_blank">här</a>.
+		Vi använder cookies för att förbättra din upplevelse medan du navigerar genom vår webbplats. Av dessa cookies lagras de kakor som kategoriseras som nödvändiga i din webbläsare eftersom de är viktiga för att vår grundläggande funktion ska fungera. Vi använder också tredjepartscookies som hjälper oss att analysera och förstå hur du använder vår webbplats. Dessa cookies lagras endast i din webbläsare med ditt samtycke. Du har också möjlighet att välja bort dessa cookies. Men att välja bort några av dessa cookies kan påverka din surfupplevelse.<br><br>Läs mer <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">här</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1936,7 +1936,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ZenDesk Support
+		Crisp Support
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2173,7 +2173,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Installationsguide</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Installationsguide</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2215,7 +2215,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Om nedladdningen inte startar automatiskt, <a target="_blank">försök igen</a>
+		Om nedladdningen inte startar automatiskt, <a target="_blank" rel="noopener noreferrer">försök igen</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2521,7 +2521,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vi kan inte vänta med att starta webbseminariet, men vänta lite till. Under tiden rekommenderar vi att du läser <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">denna instruktion</a> för webbinariedeltagaren.
+		Vi kan inte vänta med att starta webbseminariet, men vänta lite till. Under tiden rekommenderar vi att du läser <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">denna instruktion</a> för webbinariedeltagaren.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

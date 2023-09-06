@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Kontrollige helitugevust<br/><br/>ja puudutage ekraani
+		<br><br><br><br>Kontrollige helitugevust<br><br>ja puudutage ekraani
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -832,7 +832,7 @@ return array(
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Kohe pärast edukat maksmist, praegune mahutavus suureneb <b><u>100 koha</u></b>
-		võrra.<br/><br/>See laiend kestab järgmised <b><u>5 tundi</u></b>, mille järel
+		võrra.<br><br>See laiend kestab järgmised <b><u>5 tundi</u></b>, mille järel
 		veebiseminari mahutavus väheneb tagasi selle numbrini, mis teie standard pakett
 		pakub.
 	',
@@ -1044,7 +1044,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Olete kindlad, et soovite lõplikult keelata kasutajal juurdepääsu tuppa?<br/><br/>Kui jah, palun kirjutage selgitus allapoole ning vajutage &quot;Yes&quot;, muidu, vajutage &quot;No&quot;.
+		Olete kindlad, et soovite lõplikult keelata kasutajal juurdepääsu tuppa?<br><br>Kui jah, palun kirjutage selgitus allapoole ning vajutage &quot;Yes&quot;, muidu, vajutage &quot;No&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1056,7 +1056,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Olete kindlad, et soovite ajutiselt blokeerida kasutajat?<br/><br/>Kui jah, palun kirjutage selgitus allapoole ning vajutage &quot;No&quot;.
+		Olete kindlad, et soovite ajutiselt blokeerida kasutajat?<br><br>Kui jah, palun kirjutage selgitus allapoole ning vajutage &quot;No&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1092,7 +1092,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Teie interneti ühendus on ootamatult katkestanud!<br/> <br/>Kontrollige Interneti-ühendust ja taaskäivitage veebilehitsejat et taastada ringhäälingut.<br/> <br/>Kui näete seda sõnumit korduvalt, siis tuleb võtta ühendust oma ISP\\i toega et kontrollida interneti-ühenduse stabiilsust, sealhulgas WiFi-ühendust.
+		Teie interneti ühendus on ootamatult katkestanud!<br> <br>Kontrollige Interneti-ühendust ja taaskäivitage veebilehitsejat et taastada ringhäälingut.<br> <br>Kui näete seda sõnumit korduvalt, siis tuleb võtta ühendust oma ISP\\i toega et kontrollida interneti-ühenduse stabiilsust, sealhulgas WiFi-ühendust.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1518,7 +1518,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">press here</a>.
+		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">press here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1572,7 +1572,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Teil on tasuta konto, kehtivad <a href="{url}" target="_blank">piirangud</a>
+		Teil on tasuta konto, kehtivad <a href="{url}" target="_blank" rel="noopener noreferrer">piirangud</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1808,7 +1808,7 @@ return array(
 		<br><br>
 		Kasutame ka kolmandate osapoolte küpsiseid, mis aitavad meil analüüsida ja mõista, kuidas te meie veebisaiti, juhtpaneeli ja veebiseminari tuba kasutate. Neid küpsiseid salvestatakse teie brauseris ainult teie nõusolekul. Saate muuta oma brauseri sätteid ja need täielikult keelata. Küpsiste keelamine võib takistada teil meie teenuste täielikku kasutamist.
 		<br><br>
-		Sellel <a href="https://myownconference.com/cookies-policy.php" target="_blank">lingil</a> saate tutvuda andmetöötlus- ja kaitsepoliitika täieliku versiooniga.
+		Sellel <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">lingil</a> saate tutvuda andmetöötlus- ja kaitsepoliitika täieliku versiooniga.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1949,7 +1949,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ZenDesk klienditugi
+		Crisp klienditugi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2186,7 +2186,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Paigaldusjuhend</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Paigaldusjuhend</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2228,7 +2228,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kui allalaadimine ei käivitu automaatselt, <a target="_blank">proovige uuesti</a>
+		Kui allalaadimine ei käivitu automaatselt, <a target="_blank" rel="noopener noreferrer">proovige uuesti</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2534,7 +2534,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Me ei saa oodata veebiseminari alustamist, kuid palun hoidke veidi kauem. Vahepeal soovitame lugeda <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">seda juhendit</a> veebiseminari osaleja jaoks.
+		Me ei saa oodata veebiseminari alustamist, kuid palun hoidke veidi kauem. Vahepeal soovitame lugeda <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">seda juhendit</a> veebiseminari osaleja jaoks.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

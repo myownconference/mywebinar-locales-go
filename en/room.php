@@ -574,7 +574,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Check the volume<br/><br/>and tap the screen
+		<br><br><br><br>Check the volume<br><br>and tap the screen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -836,7 +836,7 @@ return array(
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		This option enables you to immediately purchase an extra <b><u>100 seats</u></b>
-		for your webinar.<br/><br/>These seats will be available to your attendees for up
+		for your webinar.<br><br>These seats will be available to your attendees for up
 		to <b><u>5 hours</u></b> from the time they are purchased. After 5 hours the
 		number of seats will revert back to your original package size.
 	',
@@ -1048,7 +1048,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Are you sure you want to permanently ban the user to access the room?<br/><br/>If yes, please enter the reason below and click &quot;Yes&quot;, otherwise, click &quot;No&quot;.
+		Are you sure you want to permanently ban the user to access the room?<br><br>If yes, please enter the reason below and click &quot;Yes&quot;, otherwise, click &quot;No&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1060,7 +1060,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Are you sure you want to temporarily block the user?<br/><br/>If so, please provide the reason below, otherwise click &quot;No&quot;.
+		Are you sure you want to temporarily block the user?<br><br>If so, please provide the reason below, otherwise click &quot;No&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1097,7 +1097,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Your Internet connection has been unexpectedly terminated!<br/><br/>Check the Internet connection and restart your browser page in order to restore broadcast.<br/><br/>If you repeatedly receive this message, you need to contact your ISP\'s support to check the stability of Internet connection, including Wi-Fi connection.
+		Your Internet connection has been unexpectedly terminated!<br><br>Check the Internet connection and restart your browser page in order to restore broadcast.<br><br>If you repeatedly receive this message, you need to contact your ISP\'s support to check the stability of Internet connection, including Wi-Fi connection.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1523,7 +1523,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">press here</a>.
+		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">press here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1577,7 +1577,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You are using a free account that has <a href="{url}" target="_blank">limitations</a>
+		You are using a free account that has <a href="{url}" target="_blank" rel="noopener noreferrer">limitations</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1809,7 +1809,7 @@ return array(
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to improve your experience while you navigate through our website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of our website. We also use third-party cookies that help us analyze and understand how you use our website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.<br><br>Read more <a href="https://myownconference.com/cookies-policy.php" target="_blank">here</a>.
+		We use cookies to improve your experience while you navigate through our website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of our website. We also use third-party cookies that help us analyze and understand how you use our website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.<br><br>Read more <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1950,7 +1950,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ZenDesk Support
+		Crisp Support
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2187,7 +2187,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Installation guide</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Installation guide</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2229,7 +2229,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		If the download doesn\'t start automatically, please <a target="_blank">try again</a>
+		If the download doesn\'t start automatically, please <a target="_blank" rel="noopener noreferrer">try again</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2535,7 +2535,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-        We can\'t wait to start the webinar, but please hold on a little longer. In the meantime, we recommend you read <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">this instruction</a> for the webinar attendee.
+        We can\'t wait to start the webinar, but please hold on a little longer. In the meantime, we recommend you read <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">this instruction</a> for the webinar attendee.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

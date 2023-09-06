@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Überprüfen Sie die Lautstärke<br/><br/>und<br/><br/>Berühren Sie den Bildschirm
+		<br><br><br><br>Überprüfen Sie die Lautstärke<br><br>und<br><br>Berühren Sie den Bildschirm
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -832,7 +832,7 @@ return array(
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Sofort nach der erfolgreichen Zahlung wird die Kapazität des Webinars auf
-		<b><u>100 Plätze</u></b> erhöht.<br/><br/>Diese Erweiterung wird innerhalb von
+		<b><u>100 Plätze</u></b> erhöht.<br><br>Diese Erweiterung wird innerhalb von
 		<b><u>5 Stunden</u></b> gültig, wonach die Kapazität Ihres Webinars bis zum
 		Standardmaß des von Ihnen bezahlten Pakets gesenkt wird.
 	',
@@ -1044,7 +1044,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sind Sie sicher, dass Sie den Zugang zum Webinar für diesen Zuhörer auf immer sperren wollen.<br/><br/>Falls ja, geben Sie bitte unten den Grund ein und klicken Sie auf den Button ОК, sonst klicken Sie auf den Button Zurücksetzen.
+		Sind Sie sicher, dass Sie den Zugang zum Webinar für diesen Zuhörer auf immer sperren wollen.<br><br>Falls ja, geben Sie bitte unten den Grund ein und klicken Sie auf den Button ОК, sonst klicken Sie auf den Button Zurücksetzen.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1056,7 +1056,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sind Sie sicher, dass Sie den Zuhörer aus dem Webinar zeitweilig verweisen wollen?<br/><br/>Falls ja, geben Sie bitte unten den Grund ein und klicken Sie auf den Button &quot;Ja&quot;, sonst klicken Sie auf den Button &quot;Nein&quot;.
+		Sind Sie sicher, dass Sie den Zuhörer aus dem Webinar zeitweilig verweisen wollen?<br><br>Falls ja, geben Sie bitte unten den Grund ein und klicken Sie auf den Button &quot;Ja&quot;, sonst klicken Sie auf den Button &quot;Nein&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1092,7 +1092,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ihre Internetverbindung wurde plötzlich getrennt!<br/><br/>Für die Erneuerung der Übertragung prüfen Sie Ihre Internetverbindung und starten Sie die Seite des Browsers neu.<br/><br/>Falls Sie zeitweise diese Nachricht bekommen, müssen Sie unter den Kundendienst Ihres Internetzugangsanbieters für die Überprüfung der Stabilität von Internetverbindung unter anderem Wi-Fi-Verbindung kontaktieren.
+		Ihre Internetverbindung wurde plötzlich getrennt!<br><br>Für die Erneuerung der Übertragung prüfen Sie Ihre Internetverbindung und starten Sie die Seite des Browsers neu.<br><br>Falls Sie zeitweise diese Nachricht bekommen, müssen Sie unter den Kundendienst Ihres Internetzugangsanbieters für die Überprüfung der Stabilität von Internetverbindung unter anderem Wi-Fi-Verbindung kontaktieren.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1518,7 +1518,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">press here</a>.
+		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">press here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1572,7 +1572,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie verwenden ein kostenloses Konto mit <a href="{url}" target="_blank">Einschränkungen</a>
+		Sie verwenden ein kostenloses Konto mit <a href="{url}" target="_blank" rel="noopener noreferrer">Einschränkungen</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1808,7 +1808,7 @@ return array(
 		<br><br>
 		Außerdem verwenden wir Cookies von Drittanbietern, die uns helfen zu analysieren und zu verstehen, wie Sie unsere Website, das Dashboard und den Webinarraum nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Webbrowser gespeichert. Sie können die Einstellungen Ihres Webbrowsers ändern und sie vollständig deaktivieren. Die Deaktivierung von Cookies kann jedoch Ihre Fähigkeit beeinträchtigen, unsere Dienstleistungen vollständig zu nutzen.  
 		<br><br>
-		Die vollständige Version unserer Datenschutzrichtlinie finden Sie <a href="https://myownconference.com/cookies-policy.php" target="_blank">hier</a>.
+		Die vollständige Version unserer Datenschutzrichtlinie finden Sie <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">hier</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1949,7 +1949,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ZenDesk
+		Crisp
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2186,7 +2186,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Installationsanleitung</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Installationsanleitung</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2228,7 +2228,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wenn der Download nicht automatisch gestartet wurde, <a target="_blank">versuchen Sie es erneut</a>
+		Wenn der Download nicht automatisch gestartet wurde, <a target="_blank" rel="noopener noreferrer">versuchen Sie es erneut</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2534,7 +2534,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wir können es kaum erwarten, das Webinar zu starten, aber warten Sie einen Augenblick. In der Zwischenzeit empfehlen wir Ihnen, <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">diesen Anweisungen</a> für den Webinar-Teilnehmer zu lesen.
+		Wir können es kaum erwarten, das Webinar zu starten, aber warten Sie einen Augenblick. In der Zwischenzeit empfehlen wir Ihnen, <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">diesen Anweisungen</a> für den Webinar-Teilnehmer zu lesen.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Pārbaudiet skaļumu un pieskarieties ekrānam
+		<br><br><br><br>Pārbaudiet skaļumu un pieskarieties ekrānam
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -1044,7 +1044,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vai tiešām vēlaties lietotājam pastāvīgi liegt pieeju šim kanālam?<br/><br/>Ja jā, zemāk ievadiet iemeslu un nospiediet &quot;Jā&quot;, pretējā gadījumā nospiediet pogu &quot;Nē&quot;.
+		Vai tiešām vēlaties lietotājam pastāvīgi liegt pieeju šim kanālam?<br><br>Ja jā, zemāk ievadiet iemeslu un nospiediet &quot;Jā&quot;, pretējā gadījumā nospiediet pogu &quot;Nē&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1056,7 +1056,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vai tiešām vēlaties īslaicīgi bloķēt šo lietotāju?<br/><br/>Ja jā, lūdzam zemāk norādīt iemeslu, vai nospiediet pogu &quot;Nē&quot;.
+		Vai tiešām vēlaties īslaicīgi bloķēt šo lietotāju?<br><br>Ja jā, lūdzam zemāk norādīt iemeslu, vai nospiediet pogu &quot;Nē&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1092,7 +1092,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jūsu interneta savienojums negaidīti pārtrūka!<br/><br/>Lai atjaunotu pārraidi, pārbaudiet sava interneta savienojumu un atkārtoti atveriet lapu pārlūkā.<br/><br/>Ja šo paziņojumu redzat atkārtoti, sazinieties ar sava interneta piegādātāja atbalsta dienestu, lai pārbaudītu pieslēguma pastāvīgumu, tajā skaitā, bezvadu pieslēgumu.
+		Jūsu interneta savienojums negaidīti pārtrūka!<br><br>Lai atjaunotu pārraidi, pārbaudiet sava interneta savienojumu un atkārtoti atveriet lapu pārlūkā.<br><br>Ja šo paziņojumu redzat atkārtoti, sazinieties ar sava interneta piegādātāja atbalsta dienestu, lai pārbaudītu pieslēguma pastāvīgumu, tajā skaitā, bezvadu pieslēgumu.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1518,7 +1518,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">press here</a>.
+		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">press here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1572,7 +1572,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jums ir bezmaksas konts, tiek piemēroti <a href="{url}" target="_blank">ierobežojumi</a>
+		Jums ir bezmaksas konts, tiek piemēroti <a href="{url}" target="_blank" rel="noopener noreferrer">ierobežojumi</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1808,7 +1808,7 @@ return array(
 		<br><br>
 		Mēs izmantojam arī trešo pušu sīkfailus, kas palīdz mums analizēt un saprast, kā jūs izmantojat mūsu vietni, vadības paneli un vebināru istabu. Šīs sīkdatnes jūsu pārlūkprogrammā tiks saglabātas tikai ar jūsu piekrišanu. Jūs varat mainīt pārlūka iestatījumus un tos pilnībā atspējot. Sīkdatņu atspējošana var neļaut jums pilnībā izmantot mūsu pakalpojumus.  
 		<br><br>
-		Ar šo <a href="https://myownconference.com/cookies-policy.php" target="_blank">saiti</a> jūs varat iepazīties ar datu apstrādes un aizsardzības politikas pilno versiju.
+		Ar šo <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">saiti</a> jūs varat iepazīties ar datu apstrādes un aizsardzības politikas pilno versiju.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1949,7 +1949,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ZenDesk klientu atbalsts
+		Crisp klientu atbalsts
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2186,7 +2186,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Uzstādīšanas rokasgrāmata</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Uzstādīšanas rokasgrāmata</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2228,7 +2228,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ja lejupielāde nesākas automātiski, <a target="_blank">mēģiniet vēlreiz</a>
+		Ja lejupielāde nesākas automātiski, <a target="_blank" rel="noopener noreferrer">mēģiniet vēlreiz</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2534,7 +2534,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mēs nevaram gaidīt, lai sāktu webināru, bet, lūdzu, turiet nedaudz ilgāk. Tikmēr mēs iesakām izlasīt <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">šo instrukciju</a> Webinar dalībniekam.
+		Mēs nevaram gaidīt, lai sāktu webināru, bet, lūdzu, turiet nedaudz ilgāk. Tikmēr mēs iesakām izlasīt <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">šo instrukciju</a> Webinar dalībniekam.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

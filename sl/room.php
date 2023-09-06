@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Preverite glasnost in<br/><br/>tapnite na zaslon
+		<br><br><br><br>Preverite glasnost in<br><br>tapnite na zaslon
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -832,7 +832,7 @@ return array(
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Trenutna kapaciteta webinarja bo povečana za <b><u>100 mest</u></b> takoj po
-		uspešno izvedenem plačilu.<br/><br/>Ta razširitev bo veljavna naslednjih
+		uspešno izvedenem plačilu.<br><br>Ta razširitev bo veljavna naslednjih
 		<b><u>5 ur</u></b>, po tem pa bo kapaciteta webinarja zmanjšana na standardno
 		velikost paketa, za katerega ste plačali.
 	',
@@ -1044,7 +1044,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ste prepričani, da želite <b><u>ZA VEDNO</u></b> blokirati uporabnika?<br/><br/>Če da, zapišite razlog spodaj in kliknite &quot;Da&quot;, sicer kliknite &quot;Ne&quot;.
+		Ste prepričani, da želite <b><u>ZA VEDNO</u></b> blokirati uporabnika?<br><br>Če da, zapišite razlog spodaj in kliknite &quot;Da&quot;, sicer kliknite &quot;Ne&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1056,7 +1056,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ste prepričani, da želite začasno blokirati uporabnika?<br/><br/>Če da, zapišite razlog spodaj, sicer kliknite &quot;Ne&quot;.
+		Ste prepričani, da želite začasno blokirati uporabnika?<br><br>Če da, zapišite razlog spodaj, sicer kliknite &quot;Ne&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1092,7 +1092,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vaša internetna povezava je bila nepričakovano prekinjena!<br/><br/>Preverite internetno povezavo in ponovno zaženite svoj brskalnik, da bi obnovili oddajanje.<br/><br/>Če to sporočilo prejmete večkrat, morate kontaktirati podporo ISP-ja, da preveri stabilnost internetne povezave, vključno s povezavo Wi-Fi.
+		Vaša internetna povezava je bila nepričakovano prekinjena!<br><br>Preverite internetno povezavo in ponovno zaženite svoj brskalnik, da bi obnovili oddajanje.<br><br>Če to sporočilo prejmete večkrat, morate kontaktirati podporo ISP-ja, da preveri stabilnost internetne povezave, vključno s povezavo Wi-Fi.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1518,7 +1518,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">press here</a>.
+		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">press here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1572,7 +1572,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Imate brezplačen račun, veljajo <a href="{url}" target="_blank">omejitve</a>
+		Imate brezplačen račun, veljajo <a href="{url}" target="_blank" rel="noopener noreferrer">omejitve</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1808,7 +1808,7 @@ return array(
 		<br><br>
 		Uporabljamo tudi piškotke drugih proizvajalcev, ki nam pomagajo analizirati in razumeti, kako uporabljate naše spletno mesto, nadzorno ploščo in sobo za vebinarje. Ti piškotki bodo shranjeni v vašem brskalniku samo z vašim soglasjem. Lahko spremenite nastavitve brskalnika in jih popolnoma onemogočite. Vendar pa lahko onemogočanje piškotkov prepreči, da bi v celoti izkoristili naše storitve.
 		<br><br>
-		S celotno različico pravilnika o obdelavi in zaščiti podatkov se lahko seznanite na tej <a href="https://myownconference.com/cookies-policy.php" target="_blank">povezavi</a>.
+		S celotno različico pravilnika o obdelavi in zaščiti podatkov se lahko seznanite na tej <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">povezavi</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1949,7 +1949,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Podpora uporabnikom ZenDesk
+		Podpora uporabnikom Crisp
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2186,7 +2186,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Vodič za namestitev</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Vodič za namestitev</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2228,7 +2228,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Če se prenos ne začne samodejno, <a target="_blank">poskusite znova</a>
+		Če se prenos ne začne samodejno, <a target="_blank" rel="noopener noreferrer">poskusite znova</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2534,7 +2534,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ne moremo čakati, da začnete webinar, vendar vas prosimo, da držite malo dlje. Medtem priporočamo, da <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">preberete to navodilo</a> za spletni udeleženec webinar.
+		Ne moremo čakati, da začnete webinar, vendar vas prosimo, da držite malo dlje. Medtem priporočamo, da <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">preberete to navodilo</a> za spletni udeleženec webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

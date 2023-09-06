@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Tarkista äänenvoimakkuus ja kosketa näyttöä
+		<br><br><br><br>Tarkista äänenvoimakkuus ja kosketa näyttöä
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -831,7 +831,7 @@ return array(
 	'plus100text' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-	Tämän vaihtoehdon avulla voit heti ostaa ylimääräiset <b><u>100 paikkaa</u></b> webinaariisi.<br/><br/>Nämä paikat ovat osallistujiesi käytettävissä enintään <b><u>5 tuntia</u></b> ostopäivästä. Viiden tunnin kuluttua istumapaikkojen määrä palaa alkuperäiseen pakettiin.
+	Tämän vaihtoehdon avulla voit heti ostaa ylimääräiset <b><u>100 paikkaa</u></b> webinaariisi.<br><br>Nämä paikat ovat osallistujiesi käytettävissä enintään <b><u>5 tuntia</u></b> ostopäivästä. Viiden tunnin kuluttua istumapaikkojen määrä palaa alkuperäiseen pakettiin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plus100question' => /////////////////////////////////////////////////////////////////
@@ -1041,7 +1041,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Haluatko varmasti estää käyttäjän pääsyn huoneeseen pysyvästi?<br/><br/>Jos vastasit kyllä, kirjoita syy alla ja napsauta &quot;Kyllä&quot;, muuten napsauta &quot;Ei&quot;.
+		Haluatko varmasti estää käyttäjän pääsyn huoneeseen pysyvästi?<br><br>Jos vastasit kyllä, kirjoita syy alla ja napsauta &quot;Kyllä&quot;, muuten napsauta &quot;Ei&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1053,7 +1053,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Haluatko varmasti estää käyttäjän väliaikaisesti?<br/><br/>Jos näin on, anna syy alla, muuten napsauta &quot;Ei&quot;.
+		Haluatko varmasti estää käyttäjän väliaikaisesti?<br><br>Jos näin on, anna syy alla, muuten napsauta &quot;Ei&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1089,7 +1089,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Internet-yhteytesi katkesi odottamatta!<br/><br/>Tarkista Internet-yhteys ja käynnistä selainsivu uudelleen, jotta lähetys voidaan palauttaa.<br/><br/>Jos saat tämän viestin toistuvasti, sinun on otettava yhteyttä Internet-palveluntarjoajasi tukeen Internet-yhteyden, myös Wi-Fi-yhteyden, vakauden tarkistamiseksi.
+		Internet-yhteytesi katkesi odottamatta!<br><br>Tarkista Internet-yhteys ja käynnistä selainsivu uudelleen, jotta lähetys voidaan palauttaa.<br><br>Jos saat tämän viestin toistuvasti, sinun on otettava yhteyttä Internet-palveluntarjoajasi tukeen Internet-yhteyden, myös Wi-Fi-yhteyden, vakauden tarkistamiseksi.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1515,7 +1515,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-	Käytämme evästeitä tarjotaksemme sinulle parhaan käyttökokemuksen. Jos jatkat verkkosivuston käyttöä, oletamme, että haluat vastaanottaa evästeitä meiltä. Jos haluat tietää lisää evästeistä, <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">paina tätä</a>.
+	Käytämme evästeitä tarjotaksemme sinulle parhaan käyttökokemuksen. Jos jatkat verkkosivuston käyttöä, oletamme, että haluat vastaanottaa evästeitä meiltä. Jos haluat tietää lisää evästeistä, <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">paina tätä</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1569,7 +1569,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Käytät ilmaista tiliä, jolla on <a href="{url}" target="_blank">rajoituksia</a>
+		Käytät ilmaista tiliä, jolla on <a href="{url}" target="_blank" rel="noopener noreferrer">rajoituksia</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1798,7 +1798,7 @@ return array(
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-	Käytämme evästeitä parantaaksemme käyttökokemustasi, kun selaat verkkosivustoamme. Näistä evästeistä tarpeelliseksi luokitellut evästeet tallennetaan selaimeesi, koska ne ovat välttämättömiä verkkosivustomme perustoimintojen toiminnalle. Käytämme myös kolmannen osapuolen evästeitä, jotka auttavat meitä analysoimaan ja ymmärtämään, miten käytät verkkosivustoamme. Nämä evästeet tallennetaan selaimeesi vain suostumuksellasi. Sinulla on myös mahdollisuus kieltäytyä näistä evästeistä. Joidenkin evästeiden poistaminen käytöstä voi kuitenkin vaikuttaa selauskokemukseesi.<br><br>Lue lisää <a href="https://myownconference.com/cookies-policy.php" target="_blank">täällä</a>.
+	Käytämme evästeitä parantaaksemme käyttökokemustasi, kun selaat verkkosivustoamme. Näistä evästeistä tarpeelliseksi luokitellut evästeet tallennetaan selaimeesi, koska ne ovat välttämättömiä verkkosivustomme perustoimintojen toiminnalle. Käytämme myös kolmannen osapuolen evästeitä, jotka auttavat meitä analysoimaan ja ymmärtämään, miten käytät verkkosivustoamme. Nämä evästeet tallennetaan selaimeesi vain suostumuksellasi. Sinulla on myös mahdollisuus kieltäytyä näistä evästeistä. Joidenkin evästeiden poistaminen käytöstä voi kuitenkin vaikuttaa selauskokemukseesi.<br><br>Lue lisää <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">täällä</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1939,7 +1939,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ZenDesk Support
+		Crisp Support
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2176,7 +2176,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Asennusohje</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Asennusohje</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2218,7 +2218,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jos lataus ei käynnisty automaattisesti, <a target="_blank">yritä uudelleen</a>
+		Jos lataus ei käynnisty automaattisesti, <a target="_blank" rel="noopener noreferrer">yritä uudelleen</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2524,7 +2524,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Emme voi odottaa webinaarin alkua, mutta odota hetki. Sillä välin suosittelemme, että luet <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">tämän ohjeen</a> webinaarin osallistujalle.
+		Emme voi odottaa webinaarin alkua, mutta odota hetki. Sillä välin suosittelemme, että luet <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">tämän ohjeen</a> webinaarin osallistujalle.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Ses düzeyini kontrol<br/><br/>et ve ekrana dokun
+		<br><br><br><br>Ses düzeyini kontrol<br><br>et ve ekrana dokun
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -832,7 +832,7 @@ return array(
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Webinar mevcut kapasitesinin başarılı ödeme <b><u>100 kişi</u></b> artmıştır
-		olacak hemen sonra.<br/><br/>Bu uzantı semineri kapasitesi ödenen paketin
+		olacak hemen sonra.<br><br>Bu uzantı semineri kapasitesi ödenen paketin
 		standart ölçü düşecektir hangi sonraki <b><u>5 saat</u></b>, geçerli
 		olacaktır sen.
 	',
@@ -1044,7 +1044,7 @@ return array(
 	'user-ban-text' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İstediğiniz emin misiniz <b><u>SONSUZA</u></b> senin webinar bu dinleyici erişimi engelleme?<br/><br/>Eğer öyleyse, aşağıdaki kilit nedenini girin &quot;evet&quot;, aksi takdirde tıklayın &quot;hayır&quot;.
+		İstediğiniz emin misiniz <b><u>SONSUZA</u></b> senin webinar bu dinleyici erişimi engelleme?<br><br>Eğer öyleyse, aşağıdaki kilit nedenini girin &quot;evet&quot;, aksi takdirde tıklayın &quot;hayır&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-banned' => ///////////////////////////////////////////////////////////////////
@@ -1056,7 +1056,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İstediğiniz emin misiniz <b><u>GEÇİCİ</u></b> senin web seminerine bu dinleyici çıkarmak?<br/><br/>Eğer öyleyse, nedenini aşağıda girin &quot;evet&quot;, aksi takdirde tıklayın &quot;hayır&quot;.
+		İstediğiniz emin misiniz <b><u>GEÇİCİ</u></b> senin web seminerine bu dinleyici çıkarmak?<br><br>Eğer öyleyse, nedenini aşağıda girin &quot;evet&quot;, aksi takdirde tıklayın &quot;hayır&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1092,7 +1092,7 @@ return array(
 	'internet-connection-terminated' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İnternet bağlantısı beklenmedik şekilde sona erdirildi!<br/><br/>Yayını geri yüklemek için, bir internet bağlantısı için kontrol edin ve ardından tarayıcı sayfasını yeniden.<br/><br/>Art arda Bu mesajı alırsanız, internet bağlantısı istikrarı kontrol etmek için ISS müşteri hizmetleriyle temasa gerek, wi-fi bağlantısı.
+		İnternet bağlantısı beklenmedik şekilde sona erdirildi!<br><br>Yayını geri yüklemek için, bir internet bağlantısı için kontrol edin ve ardından tarayıcı sayfasını yeniden.<br><br>Art arda Bu mesajı alırsanız, internet bağlantısı istikrarı kontrol etmek için ISS müşteri hizmetleriyle temasa gerek, wi-fi bağlantısı.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'streaming-desktop-text' => //////////////////////////////////////////////////////////
@@ -1518,7 +1518,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">press here</a>.
+		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">press here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1572,7 +1572,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ücretsiz bir hesabınız var, <a href="{url}" target="_blank">kısıtlamalar</a> var
+		Ücretsiz bir hesabınız var, <a href="{url}" target="_blank" rel="noopener noreferrer">kısıtlamalar</a> var
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1808,7 +1808,7 @@ return array(
 		<br><br>
 		Ayrıca, internet sitemize, panoyu ve web seminer odasını nasıl kullandığınızı analiz edip anlamamıza yardımcı olan üçüncü parti kuruluşların çerezlerini de kullanıyoruz. Bu çerezler sadece izniniz olursa internet tarayıcınızda saklanacaktır. İnternet tarayıcı ayarlarınızı değiştirebilir ve çerezleri tamamen kapatabilirsiniz. Ancak bu durumda, çerezleri kapatmak hizmetlerimizin tamamını kullanabilme imkânlarınızı kısıtlayabilir.
 		<br><br>
-		İşbu Gizlilik Politikamızın tam sürümüne <a href="https://myownconference.com/cookies-policy.php" target="_blank">buradan</a> ulaşılabilir.
+		İşbu Gizlilik Politikamızın tam sürümüne <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">buradan</a> ulaşılabilir.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1949,7 +1949,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ZenDesk müşteri desteği
+		Crisp müşteri desteği
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2186,7 +2186,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Yükleme Rehberi</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Yükleme Rehberi</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2228,7 +2228,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İndirme otomatik olarak başlamazsa <a target="_blank">tekrar deneyin</a>
+		İndirme otomatik olarak başlamazsa <a target="_blank" rel="noopener noreferrer">tekrar deneyin</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2534,7 +2534,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web seminerini başlatmak için sabırsızlanıyoruz, ancak lütfen biraz daha uzun tutun. Bu arada, webinar katılımcısının bu <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">talimatını okumanızı</a> öneririz.
+		Web seminerini başlatmak için sabırsızlanıyoruz, ancak lütfen biraz daha uzun tutun. Bu arada, webinar katılımcısının bu <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">talimatını okumanızı</a> öneririz.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

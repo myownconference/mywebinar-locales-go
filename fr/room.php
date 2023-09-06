@@ -573,7 +573,7 @@ return array(
 	'welcome-message' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/><br/><br/>Vérifiez le volume<br/><br/>et touchez l&apos;écran
+		<br><br><br><br>Vérifiez le volume<br><br>et touchez l&apos;écran
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'min' => /////////////////////////////////////////////////////////////////////////////
@@ -832,7 +832,7 @@ return array(
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Immédiatement après paiement réussi, la capacité actuelle du webinaire sera
-		augmenté de <b><u>100 places</u></b> ajoutées à la capacité existante.<br/><br/>
+		augmenté de <b><u>100 places</u></b> ajoutées à la capacité existante.<br><br>
 		Cette extension sera valable pour les <b><u>5 prochaines heures</u></b>, après
 		quoi la capacité de votre webinaire sera réduit à la taille du paquet standard
 		que vous avez payé pour.
@@ -1057,7 +1057,7 @@ return array(
 	'user-reject-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Etes-vous sur que vous voulez bloqer temporellement l&apos;utilisateur?<br/><br/>Si oui, indiquez la raison et cliquez &quot;Oui&quot;, &quot;Non&quot;.
+		Etes-vous sur que vous voulez bloqer temporellement l&apos;utilisateur?<br><br>Si oui, indiquez la raison et cliquez &quot;Oui&quot;, &quot;Non&quot;.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'user-s-rejected' => /////////////////////////////////////////////////////////////////
@@ -1519,7 +1519,7 @@ return array(
 	'cookies-policy' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/cookies-policy.php" target="_blank" rel="noreferrer">press here</a>.
+		We use cookies to provide you with the best user experience. If you continue using the website, we&apos;ll assume that you want to receive cookies from us. If you would like to know more about cookies please <a href="//{domain}/privacy-policy/" target="_blank" rel="noopener noreferrer">press here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-agree' => ///////////////////////////////////////////////////////////////////
@@ -1573,7 +1573,7 @@ return array(
 	'free-package-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous utilisez un compte gratuit qui a des <a href="{url}" target="_blank">limites</a>
+		Vous utilisez un compte gratuit qui a des <a href="{url}" target="_blank" rel="noopener noreferrer">limites</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-package-button' => /////////////////////////////////////////////////////////////
@@ -1809,7 +1809,7 @@ return array(
 		<br><br>
 		Nous utilisons également des cookies tiers qui nous aident à analyser et à comprendre comment vous utilisez notre site web, notre panneau de contrôle et notre salle de webinaire. Ces cookies ne seront stockés dans votre navigateur qu\'avec votre accord. Vous pouvez modifier les paramètres de votre navigateur et les désactiver complètement. Cependant, la désactivation des cookies peut vous empêcher d\'utiliser nos services dans leur intégralité.  
 		<br><br>
-		Pour voir la version complète de la politique de traitement et de protection des données, veuillez cliquer <a href="https://myownconference.com/cookies-policy.php" target="_blank">ici</a>.
+		Pour voir la version complète de la politique de traitement et de protection des données, veuillez cliquer <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">ici</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -1950,7 +1950,7 @@ return array(
 	'zendesk-cookie' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Support client ZenDesk
+		Support client Crisp
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'zendesk-desc' => ////////////////////////////////////////////////////////////////////
@@ -2187,7 +2187,7 @@ return array(
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank">Guide d\'installation</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Guide d\'installation</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -2229,7 +2229,7 @@ return array(
 	'install-manual-footer' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Si le téléchargement n\'a pas démarré automatiquement, <a target="_blank">essayez à nouveau</a>
+		Si le téléchargement n\'a pas démarré automatiquement, <a target="_blank" rel="noopener noreferrer">essayez à nouveau</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-exit-webinar-text' => ///////////////////////////////////////////////////////////
@@ -2535,7 +2535,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nous avons hâte de commencer le webinaire, mais nous devrons attendre encore un peu. En attendant, nous vous recommandons de lire les <a target="_blank" href="https://myownconference.com/blog/en/memo-en/">instructions pour les participants</a> au webinaire.
+		Nous avons hâte de commencer le webinaire, mais nous devrons attendre encore un peu. En attendant, nous vous recommandons de lire les <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">instructions pour les participants</a> au webinaire.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////
