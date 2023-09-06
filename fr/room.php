@@ -1255,7 +1255,7 @@ return array(
 	'bots' => ////////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Total - 
+		Total -
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bots-remove' => /////////////////////////////////////////////////////////////////////
@@ -1411,7 +1411,7 @@ return array(
 	'name-4-128' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		 Name is too short (must be at least 2 characters).
+		Name is too short (must be at least 2 characters).
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'download' => ////////////////////////////////////////////////////////////////////////
@@ -1805,11 +1805,7 @@ return array(
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nous utilisons des cookies pour suivre l\'utilisation de notre site web, de notre panneau de contrôle et de notre salle de webinaire. Cela nous permet de nous adapter autant que possible à vos besoins personnels. Nous n\'utilisons que des cookies de session. Ils sont obligatoires et sont créés lorsque vous visitez notre site web, vous vous connectez à notre panneau de contrôle ou à notre salle de webinaire. Les cookies de session sont stockés sous forme cryptée sur votre ordinateur et sont automatiquement supprimés 180 jours après la dernière utilisation de nos services.
-		<br><br>
-		Nous utilisons également des cookies tiers qui nous aident à analyser et à comprendre comment vous utilisez notre site web, notre panneau de contrôle et notre salle de webinaire. Ces cookies ne seront stockés dans votre navigateur qu\'avec votre accord. Vous pouvez modifier les paramètres de votre navigateur et les désactiver complètement. Cependant, la désactivation des cookies peut vous empêcher d\'utiliser nos services dans leur intégralité.  
-		<br><br>
-		Pour voir la version complète de la politique de traitement et de protection des données, veuillez cliquer <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">ici</a>.
+		Nous utilisons des cookies pour suivre l\'utilisation de notre site web, de notre panneau de contrôle et de notre salle de webinaire. Cela nous permet de nous adapter autant que possible à vos besoins personnels. Nous n\'utilisons que des cookies de session. Ils sont obligatoires et sont créés lorsque vous visitez notre site web, vous vous connectez à notre panneau de contrôle ou à notre salle de webinaire. Les cookies de session sont stockés sous forme cryptée sur votre ordinateur et sont automatiquement supprimés 180 jours après la dernière utilisation de nos services.<br><br>Nous utilisons également des cookies tiers qui nous aident à analyser et à comprendre comment vous utilisez notre site web, notre panneau de contrôle et notre salle de webinaire. Ces cookies ne seront stockés dans votre navigateur qu\'avec votre accord. Vous pouvez modifier les paramètres de votre navigateur et les désactiver complètement. Cependant, la désactivation des cookies peut vous empêcher d\'utiliser nos services dans leur intégralité.<br><br>Pour voir la version complète de la politique de traitement et de protection des données, veuillez cliquer <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">ici</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -2355,7 +2351,7 @@ return array(
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/memo-en/" class="button">Aide</a>
+		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button">Aide</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2523,7 +2519,7 @@ return array(
 	'paypal-pay-waite-error-desc' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre paiement est en cours de traitement. Bientôt, nous vous enverrons un billet à envoyer par courrier électronique %S. S\'il vous plaît, attendez.  
+		Votre paiement est en cours de traitement. Bientôt, nous vous enverrons un billet à envoyer par courrier électronique %S. S\'il vous plaît, attendez.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-password' => //////////////////////////////////////////////////////////////////
@@ -2535,7 +2531,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nous avons hâte de commencer le webinaire, mais nous devrons attendre encore un peu. En attendant, nous vous recommandons de lire les <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">instructions pour les participants</a> au webinaire.
+		Nous avons hâte de commencer le webinaire, mais nous devrons attendre encore un peu. En attendant, nous vous recommandons de lire les <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">instructions pour les participants</a> au webinaire.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

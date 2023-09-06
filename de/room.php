@@ -141,7 +141,7 @@ return array(
 	'not-active-try-later' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Das Webinar ist inaktiv. Versuchen Sie bitte später noch einmal. 
+		Das Webinar ist inaktiv. Versuchen Sie bitte später noch einmal.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'field-blank' => /////////////////////////////////////////////////////////////////////
@@ -1254,7 +1254,7 @@ return array(
 	'bots' => ////////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Total - 
+		Total -
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bots-remove' => /////////////////////////////////////////////////////////////////////
@@ -1410,7 +1410,7 @@ return array(
 	'name-4-128' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		 Name is too short (must be at least 2 characters).
+		Name is too short (must be at least 2 characters).
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'download' => ////////////////////////////////////////////////////////////////////////
@@ -1599,7 +1599,7 @@ return array(
 	'show-local-time' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sehen Sie die Zeit in meiner Zeitzone 
+		Sehen Sie die Zeit in meiner Zeitzone
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-moderators' => //////////////////////////////////////////////////////////////////
@@ -1806,7 +1806,7 @@ return array(
 	'
 		Wir verwenden Cookies, um die Nutzung unserer Website, des Dashboards und des Webinarraums zu verfolgen. Dies ermöglicht eine maximale Anpassung an Ihre persönlichen Bedürfnisse. Wir verwenden ausschließlich Session-Cookies. Sie sind obligatorisch und werden erstellt, wenn Sie unsere Website erreichen, sich im Dashboard oder Webinarraum authentifizieren. Session-Cookies werden verschlüsselt auf Ihrem Computer gespeichert und 180 Tage, nachdem Sie unsere Dienste zum letzten Mal genutzt haben, automatisch gelöscht.
 		<br><br>
-		Außerdem verwenden wir Cookies von Drittanbietern, die uns helfen zu analysieren und zu verstehen, wie Sie unsere Website, das Dashboard und den Webinarraum nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Webbrowser gespeichert. Sie können die Einstellungen Ihres Webbrowsers ändern und sie vollständig deaktivieren. Die Deaktivierung von Cookies kann jedoch Ihre Fähigkeit beeinträchtigen, unsere Dienstleistungen vollständig zu nutzen.  
+		Außerdem verwenden wir Cookies von Drittanbietern, die uns helfen zu analysieren und zu verstehen, wie Sie unsere Website, das Dashboard und den Webinarraum nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Webbrowser gespeichert. Sie können die Einstellungen Ihres Webbrowsers ändern und sie vollständig deaktivieren. Die Deaktivierung von Cookies kann jedoch Ihre Fähigkeit beeinträchtigen, unsere Dienstleistungen vollständig zu nutzen.
 		<br><br>
 		Die vollständige Version unserer Datenschutzrichtlinie finden Sie <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">hier</a>.
 	',
@@ -2354,7 +2354,7 @@ return array(
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/memo-en/" class="button">Hilfe</a>
+		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button">Hilfe</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2534,7 +2534,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wir können es kaum erwarten, das Webinar zu starten, aber warten Sie einen Augenblick. In der Zwischenzeit empfehlen wir Ihnen, <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">diesen Anweisungen</a> für den Webinar-Teilnehmer zu lesen.
+		Wir können es kaum erwarten, das Webinar zu starten, aber warten Sie einen Augenblick. In der Zwischenzeit empfehlen wir Ihnen, <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">diesen Anweisungen</a> für den Webinar-Teilnehmer zu lesen.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

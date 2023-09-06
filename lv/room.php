@@ -954,7 +954,7 @@ return array(
 	'you-disabled-chat' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		 Jūs izslēdzāt teksta čatu
+		Jūs izslēdzāt teksta čatu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'presenter-s-disabled-chat' => ///////////////////////////////////////////////////////
@@ -1254,7 +1254,7 @@ return array(
 	'bots' => ////////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Total - 
+		Total -
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bots-remove' => /////////////////////////////////////////////////////////////////////
@@ -1410,7 +1410,7 @@ return array(
 	'name-4-128' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		 Name is too short (must be at least 2 characters).
+		Name is too short (must be at least 2 characters).
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'download' => ////////////////////////////////////////////////////////////////////////
@@ -1804,11 +1804,7 @@ return array(
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mēs izmantojam sīkdatnes, lai izsekotu mūsu vietnes, vadības paneļa un vebināru telpas izmantošanai. Tas ļauj mums pēc iespējas vairāk pielāgoties jūsu personīgajām vajadzībām. Mēs izmantojam tikai sesijas sīkdatnes. Tie ir obligāti un tiek izveidoti, apmeklējot mūsu vietni, piesakoties vadības panelī vai vebināra telpā. Sesijas sīkfaili tiek šifrēti jūsu datorā un tiek automātiski izdzēsti 180 dienas pēc pēdējās mūsu pakalpojumu izmantošanas.
-		<br><br>
-		Mēs izmantojam arī trešo pušu sīkfailus, kas palīdz mums analizēt un saprast, kā jūs izmantojat mūsu vietni, vadības paneli un vebināru istabu. Šīs sīkdatnes jūsu pārlūkprogrammā tiks saglabātas tikai ar jūsu piekrišanu. Jūs varat mainīt pārlūka iestatījumus un tos pilnībā atspējot. Sīkdatņu atspējošana var neļaut jums pilnībā izmantot mūsu pakalpojumus.  
-		<br><br>
-		Ar šo <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">saiti</a> jūs varat iepazīties ar datu apstrādes un aizsardzības politikas pilno versiju.
+		Mēs izmantojam sīkdatnes, lai izsekotu mūsu vietnes, vadības paneļa un vebināru telpas izmantošanai. Tas ļauj mums pēc iespējas vairāk pielāgoties jūsu personīgajām vajadzībām. Mēs izmantojam tikai sesijas sīkdatnes. Tie ir obligāti un tiek izveidoti, apmeklējot mūsu vietni, piesakoties vadības panelī vai vebināra telpā. Sesijas sīkfaili tiek šifrēti jūsu datorā un tiek automātiski izdzēsti 180 dienas pēc pēdējās mūsu pakalpojumu izmantošanas.<br><br>Mēs izmantojam arī trešo pušu sīkfailus, kas palīdz mums analizēt un saprast, kā jūs izmantojat mūsu vietni, vadības paneli un vebināru istabu. Šīs sīkdatnes jūsu pārlūkprogrammā tiks saglabātas tikai ar jūsu piekrišanu. Jūs varat mainīt pārlūka iestatījumus un tos pilnībā atspējot. Sīkdatņu atspējošana var neļaut jums pilnībā izmantot mūsu pakalpojumus.<br><br>Ar šo <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">saiti</a> jūs varat iepazīties ar datu apstrādes un aizsardzības politikas pilno versiju.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -2354,7 +2350,7 @@ return array(
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/memo-en/" class="button">Palīdzība</a>
+		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button">Palīdzība</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2534,7 +2530,7 @@ return array(
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mēs nevaram gaidīt, lai sāktu webināru, bet, lūdzu, turiet nedaudz ilgāk. Tikmēr mēs iesakām izlasīt <a href="https://myownconference.com/blog/en/memo-en/" target="_blank" rel="noopener noreferrer">šo instrukciju</a> Webinar dalībniekam.
+		Mēs nevaram gaidīt, lai sāktu webināru, bet, lūdzu, turiet nedaudz ilgāk. Tikmēr mēs iesakām izlasīt <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">šo instrukciju</a> Webinar dalībniekam.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////
