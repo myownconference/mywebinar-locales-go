@@ -1,18 +1,16 @@
 <?php
 
-/**
- * +---------------------------------------------------------------------------+
- * | Copyright (c) 2003-2019 Dosware, LLC & Akovana, UAB. All rights reserved. |
- * |                                                                           |
- * | Unauthorized copying of this file, via any medium is strictly prohibited. |
- * | Proprietary and confidential.                                             |
- * |                                                                           |
- * | Written for myownconference.com <contact@myownconference.com>             |
- * +---------------------------------------------------------------------------+
- */
+// +-------------------------------------------------------------------+
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
+// |                                                                   |
+// | Unauthorized copying of this file, via any medium is strictly     |
+// | prohibited. Proprietary and confidential.                         |
+// |                                                                   |
+// | Written for myownconference.com <contact@myownconference.com>     |
+// +-------------------------------------------------------------------+
 
 
-return array(
+return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'main-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -229,7 +227,7 @@ return array(
 	'delete-arbitary-questions' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		To enable the &quot;Evaluate question&quot; option, delete the question(s) №{qs} with random answer.
+		To enable the “Evaluate question“ option, delete the question(s) №{qs} with random answer.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-partial-correct' => ///////////////////////////////////////////////////////////
@@ -988,4 +986,4 @@ return array(
 		from
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
-);
+];

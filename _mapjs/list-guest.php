@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2019 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -10,8 +10,8 @@
 // +-------------------------------------------------------------------+
 
 
-return array(
-	'mainpopup' => array(
+return [
+	'mainpopup' => [
 		'name',
 		'B',
 		'KB',
@@ -22,8 +22,8 @@ return array(
 		'no',
 		'download-btn',
 		'delete-btn',
-	),
-	'room' => array(
+	],
+	'room' => [
 		'show-more',
 		'link-blocked',
 		'post-message',
@@ -60,17 +60,12 @@ return array(
 		'globalplay-text',
 		'welcome-message',
 		'globalplay-buffer-message',
-		
 		'error',
 		'other-browser-error',
-
 		'confirm-private-speak',
-		
 		'badvideostream',
-
 		'vpn-or-antivirus-problems-title',
 		'vpn-or-antivirus-problems-message',
-
 		'strength-jitter',
-	),
-);
+	],
+];

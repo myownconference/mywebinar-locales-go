@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2021 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -10,7 +10,7 @@
 // +-------------------------------------------------------------------+
 
 
-return array(
+return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'main-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -227,7 +227,7 @@ return array(
 	'delete-arbitary-questions' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		För att aktivera &quot;Utvärdera frågan&quot; alternativ, ta bort frågan(er) №{qs} med slumpmässigt svar.
+		För att aktivera “Utvärdera frågan“ alternativ, ta bort frågan(er) №{qs} med slumpmässigt svar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-partial-correct' => ///////////////////////////////////////////////////////////
@@ -986,4 +986,4 @@ return array(
 		från
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
-);
+];

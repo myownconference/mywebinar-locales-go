@@ -1,18 +1,16 @@
 <?php
 
-/**
- * +---------------------------------------------------------------------------+
- * | Copyright (c) 2003-2019 Dosware, LLC & Akovana, UAB. All rights reserved. |
- * |                                                                           |
- * | Unauthorized copying of this file, via any medium is strictly prohibited. |
- * | Proprietary and confidential.                                             |
- * |                                                                           |
- * | Written for myownconference.com <contact@myownconference.com>             |
- * +---------------------------------------------------------------------------+
- */
+// +-------------------------------------------------------------------+
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
+// |                                                                   |
+// | Unauthorized copying of this file, via any medium is strictly     |
+// | prohibited. Proprietary and confidential.                         |
+// |                                                                   |
+// | Written for myownconference.com <contact@myownconference.com>     |
+// +-------------------------------------------------------------------+
 
 
-return array(
+return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'main-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -229,7 +227,7 @@ return array(
 	'delete-arbitary-questions' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Um die Option &quot;Fragen bewerten&quot;, zu aktivieren, lösche die Frage (n) №{qs} mit einer beliebigen Antwort.
+		Um die Option “Fragen bewerten“, zu aktivieren, lösche die Frage (n) №{qs} mit einer beliebigen Antwort.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-partial-correct' => ///////////////////////////////////////////////////////////
@@ -982,4 +980,4 @@ return array(
 		Sam
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
-);
+];

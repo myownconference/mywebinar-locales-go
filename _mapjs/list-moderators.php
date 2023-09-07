@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2019 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -10,8 +10,8 @@
 // +-------------------------------------------------------------------+
 
 
-return array(
-	'mainpopup' => array(
+return [
+	'mainpopup' => [
 		'loading',
 		'close',
 		'del1-presentation',
@@ -20,20 +20,17 @@ return array(
 		'del1-poll',
 		'del1-test',
 		'del1-call-to-action',
-		
 		'nos-presentation',
 		'nos-file',
 		'nos-record',
 		'nos-poll',
 		'nos-test',
-		
 		'del-presentation',
 		'del-file',
 		'del-record',
 		'del-poll',
 		'del-test',
 		'del-call-to-action',
-		
 		'combine-msg',
 		'del-poll-result',
 		'yprivate',
@@ -48,55 +45,41 @@ return array(
 		'presentation-access',
 		'media-access',
 		'maybe-send-file',
-
 		'sort-by-name',
 		'sort-by-size',
 		'sort-by-created',
-
 		'available-me',
 		'available-moderators',
-
 		'file-sent',
-
 		'poll-running',
 		'votes',
 		'slide',
 		'of',
 		'yes',
 		'no',
-		
 		'renew-pause-test',
 		'renew-pause-poll',
-		
 		'moveto-btn',
 		'send-btn',
 		'duplicate-btn',
 		'combine-btn',
 		'download-btn',
-
 		'reset-results',
 		'reset-restart-results',
-		
 		'start-sharing',
-
 		'continue-material-confirm',
 		'continue',
 		'start-new',
-
-		/*редактор презентаций*/
 		'not-selected-slide',
 		'del-slide',
 		'del-slides',
 		'not-exatract',
-		
 		'cta-message-placeholder',
 		'cta-button-placeholder',
 		'cta-error-not-saved',
 		'cta-running',
-
 		'moveto-confirm',
 		'moveto-success',
-
 		'remove',
 		'remove-selected',
 		'extract',
@@ -105,8 +88,8 @@ return array(
 		'editor-confirm-reset',
 		'editor-confirm-exit',
 		'delete-btn',
-	),
-	'room' => array(
+	],
+	'room' => [
 		'show-more',
 		'link-blocked',
 		'streaming-desktop-text',
@@ -165,7 +148,6 @@ return array(
 		'storage-limit-text',
 		'storage-limit-button',
 		'error',
-
 		'display-name',
 		'enter-display-name',
 		'camera',
@@ -185,27 +167,22 @@ return array(
 		'high-quality-cancel',
 		'crop-avatar-title',
 		'confirm-delete-avatar',
-		
 		'full-screen-mode',
 		'activated-fullscreen-mode',
 		'not-show-message-again',
 		'fullscreen-enabled',
 		'fullscreen-disabled',
-		
 		'want-share-your-desktop',
 		'finish-speak-button',
 		'speak-button',
 		'screen',
-		
 		'increase-webinar',
 		'plus100text',
 		'plus100question',
 		'signout',
-
 		'open-webinar',
 		'entry-prohibited',
 		'allow',
-		
 		'chat-cleared',
 		'you-disabled-chat',
 		'presenter-s-disabled-chat',
@@ -219,32 +196,25 @@ return array(
 		'presenter-s-enabled-links',
 		'you-disabled-links',
 		'presenter-s-disabled-links',
-		
 		'confirm-speak',
 		'user-ban-text',
 		'user-s-banned',
 		'user-reject-text',
 		'user-s-rejected',
 		'block-until-event-ends',
-		
 		'maybe-full-screen',
-		
 		'error',
 		'other-browser-error',
-
 		'confirm-private-speak',
 		'end-webinar',
 		'end-webinar-confirm',
 		'end-exit-webinar-confirm',
 		'force-end-webinar',
-		
 		'moderator-end-vebinar',
 		'webinar-ended-header',
 		'moderator-start-record',
 		'moderator-end-record',
-		
 		'time-access-denied',
-
 		'install-application',
 		'update-application',
 		'speak-desc',
@@ -259,19 +229,16 @@ return array(
 		'sharing-manual-step3',
 		'speak-manual-step3',
 		'install-manual-footer',
-
 		'end-exit-webinar-text',
 		'end-exit-webinar-button',
 		'link-copied',
-
 		'poll',
 		'test',
 		'cta',
 		'votes',
 		'clicks',
-
 		'strength-jitter',
-	),
+	],
 	'tester' => [
 		'tester-results',
 		'tester-camera',
@@ -287,4 +254,4 @@ return array(
 		'tester-ok',
 		'tester-fail',
 	],
-);
+];

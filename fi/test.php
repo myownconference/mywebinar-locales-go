@@ -1,18 +1,16 @@
 <?php
 
-/**
- * +---------------------------------------------------------------------------+
- * | Copyright (c) 2003-2021 Dosware, LLC & Akovana, UAB. All rights reserved. |
- * |                                                                           |
- * | Unauthorized copying of this file, via any medium is strictly prohibited. |
- * | Proprietary and confidential.                                             |
- * |                                                                           |
- * | Written for myownconference.com <contact@myownconference.com>             |
- * +---------------------------------------------------------------------------+
- */
+// +-------------------------------------------------------------------+
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
+// |                                                                   |
+// | Unauthorized copying of this file, via any medium is strictly     |
+// | prohibited. Proprietary and confidential.                         |
+// |                                                                   |
+// | Written for myownconference.com <contact@myownconference.com>     |
+// +-------------------------------------------------------------------+
 
 
-return array(
+return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'main-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -227,7 +225,7 @@ return array(
 	'delete-arbitary-questions' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ota käyttöön &quot;Arvioi kysymys&quot; vaihtoehto, poista kysymys №{qs} satunnaisella vastauksella.
+		Ota käyttöön “Arvioi kysymys“ vaihtoehto, poista kysymys №{qs} satunnaisella vastauksella.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-partial-correct' => ///////////////////////////////////////////////////////////
@@ -986,4 +984,4 @@ return array(
 		alkaen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
-);
+];

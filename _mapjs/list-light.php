@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2019 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -10,8 +10,8 @@
 // +-------------------------------------------------------------------+
 
 
-return array(
-	'mainpopup' => array(
+return [
+	'mainpopup' => [
 		'name',
 		'B',
 		'KB',
@@ -20,10 +20,9 @@ return array(
 		'TB',
 		'yes',
 		'no',
-	),
-	'room' => array(
+	],
+	'room' => [
 		'show-more',
 		'link-blocked',
-	),
-
-);
+	],
+];
