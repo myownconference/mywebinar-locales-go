@@ -11,7 +11,7 @@
 
 
 return [
-	'mainpopup' => [
+	'files' => [
 		'loading',
 		'close',
 		'del1-presentation',
@@ -89,7 +89,7 @@ return [
 		'editor-confirm-exit',
 		'delete-btn',
 	],
-	'room' => [
+	'rooms' => [
 		'show-more',
 		'link-blocked',
 		'streaming-desktop-text',
@@ -238,8 +238,6 @@ return [
 		'votes',
 		'clicks',
 		'strength-jitter',
-	],
-	'tester' => [
 		'tester-results',
 		'tester-camera',
 		'tester-audio',

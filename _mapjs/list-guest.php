@@ -11,7 +11,7 @@
 
 
 return [
-	'mainpopup' => [
+	'files' => [
 		'name',
 		'B',
 		'KB',
@@ -23,7 +23,7 @@ return [
 		'download-btn',
 		'delete-btn',
 	],
-	'room' => [
+	'rooms' => [
 		'show-more',
 		'link-blocked',
 		'post-message',
