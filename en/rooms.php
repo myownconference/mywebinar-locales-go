@@ -1401,7 +1401,7 @@ return [
 	'registration-thankyou-text' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You will receive an email with a link to the broadcast an hour before the webinar. Be sure you check the SPAM folder in your email client.
+		You‘ll get an email with the broadcast link an hour before the event. Do ensure you peek in your Junk folder, just in case. Alternatively, you can also subscribe to our Telegram bot.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'login-thankyou-text' => /////////////////////////////////////////////////////////////
