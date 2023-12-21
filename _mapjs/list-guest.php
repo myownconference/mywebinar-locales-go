@@ -61,5 +61,6 @@ return [
 		'confirm-private-speak',
 		'badvideostream',
 		'strength-jitter',
+		'chat-fav-checked',
 	],
 ];

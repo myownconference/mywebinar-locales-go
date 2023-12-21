@@ -233,5 +233,8 @@ return [
 		'tester-mbps',
 		'tester-ok',
 		'tester-fail',
+		'chat-fav-checked',
+		'show-fav-ans',
+		'hide-fav-ans',
 	],
 ];
