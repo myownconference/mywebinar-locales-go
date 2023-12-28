@@ -236,5 +236,6 @@ return [
 		'chat-fav-checked',
 		'show-fav-ans',
 		'hide-fav-ans',
+		'confirm-fav-clear',
 	],
 ];
