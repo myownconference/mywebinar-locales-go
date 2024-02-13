@@ -98,6 +98,7 @@ return [
 		'bot-limit-1',
 		'bot-limit-2',
 		'invite-conversation',
+		'invited-to-conversation',
 		'interrupt',
 		'draw-attention',
 		'make-moderator',

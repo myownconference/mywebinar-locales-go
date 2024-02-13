@@ -38,6 +38,7 @@ return [
 		'alert-copy-link',
 		'confirm-download-file',
 		'invite-conversation',
+		'invited-to-conversation',
 		'confirm-speak',
 		'ask-speak',
 		'confirm-ask-speak',
