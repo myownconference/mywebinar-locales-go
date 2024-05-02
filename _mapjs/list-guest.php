@@ -63,5 +63,6 @@ return [
 		'badvideostream',
 		'strength-jitter',
 		'chat-fav-checked',
+		'fav-message',
 	],
 ];
