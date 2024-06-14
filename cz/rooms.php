@@ -1503,7 +1503,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Používáme cookies k vylepšení vašeho zážitku při procházení našeho webu. Z těchto Cookie jsou ty, které jsou kategorizovány jako nezbytné, uloženy ve vašem prohlížeči, protože jsou nezbytné pro základní funkčnost našeho webu. Také používáme cookies třetích stran, které nám pomáhají analyzovat a rozumět, jak používáte náš web. Tyto Cookie budou ve vašem prohlížeči uloženy pouze s vaším souhlasem. Máte také možnost těchto Cookie odmítnout. Odmítnutí některých z těchto Cookie může mít vliv na váš zážitek z procházení.<br><br>Přečtěte si více <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">zde</a>.
+		Používáme cookies (a jiné podobné technologie), abychom vylepšili váš zážitek na našem webu, účtu a v zasedacích místnostech. Používáním tohoto webu souhlasíte s naší <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">zásadou ochrany osobních údajů</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

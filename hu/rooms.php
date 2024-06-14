@@ -1503,7 +1503,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cookies használunk annak érdekében, hogy javítsuk böngészési élményét weboldalunkon. Ezek közül a cookie közül azokat, amelyek szükségesnek minősülnek, a böngészőjében tároljuk, mivel létfontosságúak weboldalunk alapvető funkcióinak működéséhez. Harmadik féltől származó cookies is használunk, amelyek segítenek elemzeni és megérteni, hogyan használja weboldalunkat. Ezek a cookie csak az Ön hozzájárulásával kerülnek tárolásra a böngészőjében. Lehetősége van ezeknek a cookies az elutasítására is. Azonban néhány süti elutasítása befolyásolhatja böngészési élményét.<br><br>Olvasd tovább <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">itt</a>.
+		Sütiket (és más hasonló technológiákat) használunk, hogy javítsuk az Ön élményét a weboldalunkon, fiókjában és a tárgyalótermekben. A weboldal használatával elfogadja az <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">adatvédelmi irányelveinket</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

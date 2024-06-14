@@ -1507,11 +1507,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utilizziamo i cookie per monitorare l’utilizzo del nostro sito web, del pannello di controllo e della sala webinar. Questo ci permette di adattarci il più possibile alle vostre esigenze personali. Utilizziamo solo cookie di sessione. Questi sono obbligatori e vengono creati quando si visita il nostro sito web, si accede al nostro pannello di controllo o alla sala webinar. I cookie di sessione vengono memorizzati in forma criptata sul vostro computer e vengono automaticamente cancellati 180 giorni dopo l’ultimo utilizzo dei nostri servizi.
-		<br><br>
-		Utilizziamo anche cookie di terze parti che ci aiutano ad analizzare e capire come utilizzate il nostro sito web, il pannello di controllo e la sala webinar. Questi cookie vengono memorizzati nel vostro browser solo con il vostro consenso. Potete modificare le impostazioni del vostro browser e disattivarle completamente. Tuttavia, la disabilitazione dei cookie può impedire all’utente di utilizzare al meglio i nostri servizi.
-		<br><br>
-		Per vedere la versione completa della politica di elaborazione e protezione dei dati, cliccare <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">qui</a>.
+		Utilizziamo cookie (e altre tecnologie simili) per migliorare la tua esperienza sul nostro sito, account e nelle sale riunioni. Utilizzando questo sito web, accetti la nostra <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politica sulla privacy</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

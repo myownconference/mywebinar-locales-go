@@ -1506,11 +1506,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wir verwenden Cookies, um die Nutzung unserer Website, des Dashboards und des Webinarraums zu verfolgen. Dies ermöglicht eine maximale Anpassung an Ihre persönlichen Bedürfnisse. Wir verwenden ausschließlich Session-Cookies. Sie sind obligatorisch und werden erstellt, wenn Sie unsere Website erreichen, sich im Dashboard oder Webinarraum authentifizieren. Session-Cookies werden verschlüsselt auf Ihrem Computer gespeichert und 180 Tage, nachdem Sie unsere Dienste zum letzten Mal genutzt haben, automatisch gelöscht.
-		<br><br>
-		Außerdem verwenden wir Cookies von Drittanbietern, die uns helfen zu analysieren und zu verstehen, wie Sie unsere Website, das Dashboard und den Webinarraum nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Webbrowser gespeichert. Sie können die Einstellungen Ihres Webbrowsers ändern und sie vollständig deaktivieren. Die Deaktivierung von Cookies kann jedoch Ihre Fähigkeit beeinträchtigen, unsere Dienstleistungen vollständig zu nutzen.
-		<br><br>
-		Die vollständige Version unserer Datenschutzrichtlinie finden Sie <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">hier</a>.
+		Wir verwenden Cookies (und ähnliche Technologien), um Ihre Erfahrung auf unserer Website, Ihrem Konto und in den Besprechungsräumen zu verbessern. Durch die Nutzung dieser Website stimmen Sie unserer <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">Datenschutzerklärung</a> zu.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

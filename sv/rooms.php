@@ -1503,7 +1503,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vi använder cookies för att förbättra din upplevelse medan du navigerar genom vår webbplats. Av dessa cookies lagras de kakor som kategoriseras som nödvändiga i din webbläsare eftersom de är viktiga för att vår grundläggande funktion ska fungera. Vi använder också tredjepartscookies som hjälper oss att analysera och förstå hur du använder vår webbplats. Dessa cookies lagras endast i din webbläsare med ditt samtycke. Du har också möjlighet att välja bort dessa cookies. Men att välja bort några av dessa cookies kan påverka din surfupplevelse.<br><br>Läs mer <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">här</a>.
+		Vi använder cookies (och andra liknande teknologier) för att förbättra din upplevelse på vår webbplats, ditt konto och i mötesrummen. Genom att använda denna webbplats godkänner du vår <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">integritetspolicy</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

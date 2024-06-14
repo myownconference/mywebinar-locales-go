@@ -1506,11 +1506,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meie veebisaidi, juhtpaneeli ja veebiseminariruumi kasutamise jälgimiseks kasutame küpsiseid. See võimaldab meil võimalikult palju teie isiklike vajadustega kohaneda. Kasutame ainult seansiküpsiseid. Need on kohustuslikud ja luuakse siis, kui külastate meie veebisaiti, logite sisse juhtpaneeli või veebiseminari ruumi. Seansi küpsised salvestatakse teie arvutis krüptitud kujul ja kustutatakse automaatselt 180 päeva pärast meie teenuste viimast kasutamist.
-		<br><br>
-		Kasutame ka kolmandate osapoolte küpsiseid, mis aitavad meil analüüsida ja mõista, kuidas te meie veebisaiti, juhtpaneeli ja veebiseminari tuba kasutate. Neid küpsiseid salvestatakse teie brauseris ainult teie nõusolekul. Saate muuta oma brauseri sätteid ja need täielikult keelata. Küpsiste keelamine võib takistada teil meie teenuste täielikku kasutamist.
-		<br><br>
-		Sellel <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">lingil</a> saate tutvuda andmetöötlus- ja kaitsepoliitika täieliku versiooniga.
+		Kasutame küpsiseid (ja muid sarnaseid tehnoloogiaid), et parandada teie kogemust meie veebisaidil, kontol ja koosolekuruumides. Seda veebisaiti kasutades nõustute meie <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privaatsuspoliitikaga</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

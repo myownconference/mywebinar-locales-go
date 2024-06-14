@@ -1508,11 +1508,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wyrażam zgodę na przetwarzanie moich danych osobowych wskazanych w formularzu na potrzeby organizacji mojego uczestnictwa w webinarze zaplanowanym przez organizatora webinaru oraz potwierdzam zapoznanie się z <a href="https://myownconference.com/pl/privacy-policy/" target="_blank" rel="noopener noreferrer">Polityką przetwarzania i ochrony danych</a>. Wyrażenie zgody jest dobrowolne, ale obligatoryjne dla realizacji celu formularza.
-		<br><br>
-		Nasza strona korzysta z plików cookies w celu ułatwienia korzystania z naszej strony internetowej, panelu klienta i pokoju webinarowego. To ułatwia nam jak najlepsze dostosowanie się do Twoich potrzeb. Wykorzystujemy tylko sesyjne pliki cookies. Są one wymagane i tworzą się podczas odwiedzania naszej strony internetowej, logowania w panelu klienta lub w pokoju webinarowym. Sesyjne pliki cookie są przechowywane w postaci zaszyfrowanej na Twoim komputerze i są automatycznie usuwane 180 dni po ostatnim użyciu naszych usług.
-		<br><br>
-		Używamy również plików cookie stron trzecich, które pomagają nam analizować i zrozumieć, w jaki sposób korzystasz z naszej strony internetowej, panelu klienta i pokoju webinarowego. Te pliki cookie będą przechowywane w przeglądarce tylko za Twoją zgodą. Możesz zmienić ustawienia przeglądarki, aby wyłączyć obsługę cookies. Jednak wyłączenie cookies może przeszkadzać w pełnym korzystaniu z witryny internetowej.<br><br>Możesz zapoznać się z pełną wersją zasad przetwarzania i ochrony danych pod <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">tym linkiem</a>.
+		Używamy plików cookie (i innych podobnych technologii), aby poprawić Twoje doświadczenia na naszej stronie, koncie i w salach konferencyjnych. Korzystając z tej strony internetowej, zgadzasz się na naszą <a href="https://myownconference.com/pl/privacy-policy/" target="_blank" rel="noopener noreferrer">politykę prywatności</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

@@ -1503,7 +1503,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-	Käytämme evästeitä parantaaksemme käyttökokemustasi, kun selaat verkkosivustoamme. Näistä evästeistä tarpeelliseksi luokitellut evästeet tallennetaan selaimeesi, koska ne ovat välttämättömiä verkkosivustomme perustoimintojen toiminnalle. Käytämme myös kolmannen osapuolen evästeitä, jotka auttavat meitä analysoimaan ja ymmärtämään, miten käytät verkkosivustoamme. Nämä evästeet tallennetaan selaimeesi vain suostumuksellasi. Sinulla on myös mahdollisuus kieltäytyä näistä evästeistä. Joidenkin evästeiden poistaminen käytöstä voi kuitenkin vaikuttaa selauskokemukseesi.<br><br>Lue lisää <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">täällä</a>.
+		Käytämme evästeitä (ja muita vastaavia tekniikoita) parantaaksemme kokemustasi sivustollamme, tililläsi ja kokoushuoneissa. Käyttämällä tätä verkkosivustoa hyväksyt meidän <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">tietosuojakäytäntömme</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

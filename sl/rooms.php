@@ -1503,7 +1503,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uporabljamo piškotke, da izboljšamo vašo izkušnjo med brskanjem po naši spletni strani. Med temi piškotki so tisti, ki so kategorizirani kot nujni, shranjeni v vašem brskalniku, saj so ključni za delovanje osnovnih funkcionalnosti naše spletne strani. Uporabljamo tudi piškotke tretjih oseb, ki nam pomagajo analizirati in razumeti, kako uporabljate našo spletno stran. Ti piškotki bodo shranjeni v vašem brskalniku samo z vašim soglasjem. Imate tudi možnost, da se od teh piškotkov odjavite. Vendar pa se lahko odjava od nekaterih teh piškotkov vpliva na vašo izkušnjo brskanja.<br><br>Preberite več <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">tukaj</a>.
+		Uporabljamo piškotke (in druge podobne tehnologije), da izboljšamo vašo izkušnjo na naši strani, računu in v sejnih sobah. Z uporabo te spletne strani se strinjate z našo <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politiko zasebnosti</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

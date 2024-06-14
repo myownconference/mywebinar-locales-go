@@ -1503,7 +1503,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Folosim cookie-uri pentru a îmbunătăți experiența dvs. în timp ce navigați pe site-ul nostru. Dintre aceste cookie-uri, cele categorisite ca fiind necesare sunt stocate pe browserul dvs. deoarece sunt esențiale pentru funcționarea funcționalităților de bază ale site-ului nostru. De asemenea, folosim cookie-uri de la terțe părți care ne ajută să analizăm și să înțelegem cum folosiți site-ul nostru. Aceste cookie-uri vor fi stocate în browserul dvs. numai cu acordul dvs. Aveți și opțiunea de a opta pentru renunțarea la aceste cookie-uri. Cu toate acestea, renunțarea la unele dintre aceste cookie-uri poate avea un efect asupra experienței dvs. de navigare.<br><br>Citiți mai mult <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">aici</a>.
+		Folosim cookie-uri (și alte tehnologii similare) pentru a îmbunătăți experiența dvs. pe site-ul nostru, cont și în sălile de întâlnire. Utilizând acest site web, sunteți de acord cu <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politica noastră de confidențialitate</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

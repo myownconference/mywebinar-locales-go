@@ -1506,7 +1506,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mēs izmantojam sīkdatnes, lai izsekotu mūsu vietnes, vadības paneļa un vebināru telpas izmantošanai. Tas ļauj mums pēc iespējas vairāk pielāgoties jūsu personīgajām vajadzībām. Mēs izmantojam tikai sesijas sīkdatnes. Tie ir obligāti un tiek izveidoti, apmeklējot mūsu vietni, piesakoties vadības panelī vai vebināra telpā. Sesijas sīkfaili tiek šifrēti jūsu datorā un tiek automātiski izdzēsti 180 dienas pēc pēdējās mūsu pakalpojumu izmantošanas.<br><br>Mēs izmantojam arī trešo pušu sīkfailus, kas palīdz mums analizēt un saprast, kā jūs izmantojat mūsu vietni, vadības paneli un vebināru istabu. Šīs sīkdatnes jūsu pārlūkprogrammā tiks saglabātas tikai ar jūsu piekrišanu. Jūs varat mainīt pārlūka iestatījumus un tos pilnībā atspējot. Sīkdatņu atspējošana var neļaut jums pilnībā izmantot mūsu pakalpojumus.<br><br>Ar šo <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">saiti</a> jūs varat iepazīties ar datu apstrādes un aizsardzības politikas pilno versiju.
+		Mēs izmantojam sīkdatnes (un citas līdzīgas tehnoloģijas), lai uzlabotu jūsu pieredzi mūsu vietnē, kontā un sanāksmju telpās. Izmantojot šo vietni, jūs piekrītat mūsu <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privātuma politikai</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

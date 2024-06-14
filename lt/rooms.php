@@ -1506,11 +1506,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mes naudojame slapukus tam, kad galėtume stebėti mūsų svetainės, valdymo skydelio ir internetinių seminarų kambario naudojimą. Tai leidžia mums kiek įmanoma prisitaikyti prie jūsų asmeninių poreikių. Mes naudojame tik sesijos slapukus. Jie yra privalomi ir yra sukurti, kai jūs lankotės mūsų svetainėje, prisijunkite prie valdymo skydelio ar internetinių seminarų kambario. Sesijos slapukai jūsų kompiuteryje saugomi užšifruota forma ir automatiškai ištrinami 180 dienų po paskutinio mūsų paslaugų naudojimo.
-		<br><br>
-		Mes taip pat naudojame trečiųjų šalių slapukus, kurie padeda mums analizuoti ir suprasti, kaip jūs naudojatės mūsų svetaine, valdymo skydeliu ir internetinių seminarų kambariu. Šie slapukai bus saugomi jūsų naršyklėje tik gavus jūsų sutikimą. Galite pakeisti savo naršyklės nustatymus ir visiškai juos išjungti. Tačiau neleidę slapukų, galite visiškai nenaudoti mūsų paslaugų.
-		<br><br>
-		Šioje <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">nuorodoje</a> galite susipažinti su visa duomenų tvarkymo ir apsaugos politikos versija.
+		Mes naudojame slapukus (ir kitas panašias technologijas), kad pagerintume jūsų patirtį mūsų svetainėje, paskyroje ir susitikimų kambariuose. Naudodamiesi šia svetaine, jūs sutinkate su mūsų <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privatumo politika</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

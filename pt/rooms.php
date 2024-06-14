@@ -1507,7 +1507,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Usamos cookies para melhorar sua experiência quando você navegar no nosso site. Dentre todas as cookies, aquelas classificadas como necessárias são armazenadas no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do nosso site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa nosso site. Esses cookies serão armazenados no seu navegador só apos o seu consentimento prévio. Você também tem a opção de decidir não receber esses cookies. Mas não aceitar alguns desses cookies pode prejudicar sua experiência na navegação.<br><br>Leia mais <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">aqui</a>.
+		Utilizamos cookies (e outras tecnologias semelhantes) para melhorar a sua experiência no nosso site, na sua conta e nas salas de reuniões. Ao usar este site, você concorda com a nossa <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">política de privacidade</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

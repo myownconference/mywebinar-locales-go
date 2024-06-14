@@ -1506,11 +1506,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İnternet sitemizin, panomuzun ve web semineri odamızın kullanımını izlemek için çerezler kullanıyoruz. Bu sayesinde kişisel ihtiyaçlarınıza maksimum derecede uyum sağlamamız mümkün olmaktadır. Sadece oturum çerezlerini kullanıyoruz. Çerezlerin kullanımı zorunludur ve çerezler internet sitemize ulaştığınızda,  panoda kimlik doğrulaması yaptığınızda ve web seminer odasında oluşturulur. Oturum çerezleri bilgisayarınızda şifrelenmiş olarak saklanır ve hizmetlerimizi son kullanımınızı takip eden 180 gün sonra otomatikman silinir.
-		<br><br>
-		Ayrıca, internet sitemize, panoyu ve web seminer odasını nasıl kullandığınızı analiz edip anlamamıza yardımcı olan üçüncü parti kuruluşların çerezlerini de kullanıyoruz. Bu çerezler sadece izniniz olursa internet tarayıcınızda saklanacaktır. İnternet tarayıcı ayarlarınızı değiştirebilir ve çerezleri tamamen kapatabilirsiniz. Ancak bu durumda, çerezleri kapatmak hizmetlerimizin tamamını kullanabilme imkânlarınızı kısıtlayabilir.
-		<br><br>
-		İşbu Gizlilik Politikamızın tam sürümüne <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">buradan</a> ulaşılabilir.
+		Sitemizdeki, hesabınızdaki ve toplantı odalarındaki deneyiminizi geliştirmek için çerezler (ve diğer benzer teknolojiler) kullanıyoruz. Bu web sitesini kullanarak <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">gizlilik politikamızı</a> kabul etmiş oluyorsunuz.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
