@@ -1554,7 +1554,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zorunlu çerezler, internet sitemizin, panomuzun ve web seminer odamızın doğru şekilde işleyebilmesi için gereklidir. İzninize bağlı olmaksızın kendiliğinden indirilir ve kullanılırlar.
+		Bu kategoride tanımlanan çerezler, web sitesinin çalışması için kesinlikle gereklidir. Bu nedenle, kullanıcı onayı olsun ya da olmasın varsayılan olarak yüklenirler.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1644,7 +1644,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kişisel panonun ve web seminer odasının tam teşekküllü olarak çalışabilmesi için zorunlu çerez dosyasının mevcudiyeti zorunludur.
+		Hesabınızın ve toplantı odalarının tam olarak çalışması için gerekli çerezler gereklidir
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1656,7 +1656,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Analytics çerezleri, internet sitemiz, pano ve web seminer odasıyla etkileşiminizi anlamamıza yardımcı olur. Bize, sitemize yapılan ziyaretlerdeki ziyaretçi sayısı ve hangi sayfaların görüntülendiği bilgilerini sağlar. Çerez dosyaları aşağıdaki verileri toplar ve anonim olarak iletir.
+		Google Analytics çerezleri, ziyaretçilerimizin web sitesiyle nasıl etkileşimde bulunduğunu anlamamıza yardımcı olur. Ziyaretçi sayısını, ziyaretçilerin nereden geldiğini ve gezdikleri sayfaları anlamamıza yardımcı olurlar. Bu çerezler bu verileri toplar ve anonim olarak raporlar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

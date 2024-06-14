@@ -1554,7 +1554,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Für den korrekten Betrieb unserer Website, des Dashboards und des Webinarraums sind Cookies erforderlich. Sie werden standardmäßig heruntergeladen und verwendet, ohne von Ihrer Zustimmung abhängig zu sein.
+		Die in dieser Kategorie definierten Cookies sind absolut notwendig für das Funktionieren der Website. Daher werden sie standardmäßig geladen, unabhängig von der Zustimmung des Nutzers.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1644,7 +1644,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Obligatorische Cookie-Datei für den vollständigen Betrieb des persönlichen Dashboards und des Webinar-Raums erforderlich
+		Notwendige Cookies sind erforderlich für die volle Funktionalität Ihres Kontos und der Besprechungsräume
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1656,7 +1656,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Die Google Analytics-Cookies helfen uns zu verstehen, wie Sie mit unserer Website, dem Dashboard und dem Webinarraum interagieren. Sie liefern uns Informationen über die Anzahl der Besucher, die Besuchsquellen und die aufgerufenen Webseiten. Die Cookie-Dateien sammeln die oben genannten Daten und übertragen sie anonymisiert.
+		Google Analytics-Cookies helfen uns zu verstehen, wie unsere Besucher mit der Website interagieren. Sie helfen uns, die Anzahl der Besucher, ihre Herkunft und die von ihnen besuchten Seiten zu verstehen. Diese Cookies sammeln diese Daten und berichten sie anonym.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

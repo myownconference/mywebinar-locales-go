@@ -1551,7 +1551,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Las cookies definidas en esta categoría son absolutamente esenciales para que el sitio web funcione. Por lo tanto, se cargan de forma predeterminada independientemente del consentimiento del usuario.
+		Las cookies definidas en esta categoría son absolutamente esenciales para el funcionamiento del sitio web. Por lo tanto, se cargan por defecto independientemente del consentimiento del usuario.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1641,7 +1641,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Se requiere la cookie necesaria para el pleno funcionamiento de su tablero/sala de seminarios web
+		Las cookies necesarias son imprescindibles para el funcionamiento completo de su cuenta y de las salas de reuniones
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1653,7 +1653,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Las cookies de Google Analytics nos ayudan a comprender cómo interactúan nuestros visitantes con el sitio web. Nos permiten conocer la cantidad de visitantes, de dónde provienen y las páginas que navegan. Las cookies recopilan estos datos y los reportan de forma anónima.
+		Las cookies de Google Analytics nos ayudan a entender cómo interactúan nuestros visitantes con el sitio web. Nos ayudan a entender el número de visitantes, de dónde vienen y las páginas que navegan. Estas cookies recopilan estos datos y los informan de forma anónima.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

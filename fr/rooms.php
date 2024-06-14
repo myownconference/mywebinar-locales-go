@@ -1555,7 +1555,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Les cookies obligatoires sont nécessaires au bon fonctionnement de notre site web, de notre panneau de contrôle et de notre salle de webinaire. Ils sont téléchargés et utilisés par défaut, indépendamment de votre consentement.
+		Les cookies définis dans cette catégorie sont absolument essentiels au fonctionnement du site web. Par conséquent, ils sont chargés par défaut, quel que soit le consentement de l‘utilisateur.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1645,7 +1645,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cookie obligatoire nécessaire pour le fonctionnement complet d’un compte personnel / d’une salle de webinaire.
+		Les cookies nécessaires sont indispensables au bon fonctionnement de votre compte et des salles de réunion
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1657,7 +1657,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Les cookies de Google Analytics nous aident à comprendre comment vous interagissez avec notre site web, notre panneau de contrôle et notre salle de webinaire. Cela nous donne des informations sur le nombre de visiteurs, les sources de visites et les pages consultées sur notre site web. Les cookies collectent ces données et les transmettent de manière anonyme.
+		Les cookies Google Analytics nous aident à comprendre comment nos visiteurs interagissent avec le site web. Ils nous aident à comprendre le nombre de visiteurs, leur provenance et les pages qu‘ils consultent. Ces cookies collectent ces données et les rapportent de manière anonyme.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

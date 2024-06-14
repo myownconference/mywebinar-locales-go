@@ -1554,7 +1554,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nõutavad küpsised on vajalikud meie veebisaidi, juhtpaneeli ja veebiseminariruumi korrektseks toimimiseks. Need laaditakse alla ja neid kasutatakse vaikimisi, sõltumata teie nõusolekust.
+		Selles kategoorias määratletud küpsised on saidi toimimiseks hädavajalikud. Seetõttu laaditakse need vaikimisi olenemata kasutaja nõusolekust.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1644,7 +1644,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Teie isikliku konto/veebiseminari ruumi täielikuks toimimiseks vajalik kohustuslik küpsis.
+		Nõutavad küpsised on vajalikud teie konto ja koosolekuruumide täielikuks toimimiseks
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1656,7 +1656,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Analytics küpsised aitavad meil mõista, kuidas suhelda meie veebisaidi, juhtpaneeli ja veebiseminariruumiga. See annab meile teavet külastajate arvu, külastuste allikate ja veebisaidil vaadatud lehtede kohta. Küpsised koguvad neid andmeid ja edastavad neid anonüümselt.
+		Google Analyticsi küpsised aitavad meil mõista, kuidas meie külastajad veebisaidiga suhtlevad. Need aitavad meil mõista külastajate arvu, kust külastajad tulevad ja milliseid lehti nad sirvivad. Need küpsised koguvad need andmed ja edastavad need anonüümselt.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

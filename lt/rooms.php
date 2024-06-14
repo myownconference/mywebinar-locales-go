@@ -1554,7 +1554,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Norint, kad mūsų svetainė, valdymo pultas ir internetinių seminarų kambarys tinkamai veiktų, būtini slapukai. Jie atsisiunčiami ir naudojami pagal numatytuosius nustatymus, nepriklausomai nuo jūsų sutikimo.
+		Šioje kategorijoje apibrėžti slapukai yra visiškai būtini svetainės veikimui. Todėl jie įkeliami pagal numatytuosius nustatymus, nepaisant vartotojo sutikimo.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1644,7 +1644,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Privalomas slapukas, būtinas visapusiškam jūsų asmeninės sąskaitos/internetinių seminarų kambario veikimui.
+		Būtini slapukai yra reikalingi jūsų paskyros ir susitikimų kambarių visiškam veikimui
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1656,7 +1656,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Analytics slapukai padeda mums suprasti, kaip jūs sąveikaujate su mūsų svetaine, valdymo skydeliu ir internetinių seminarų kambariu. Tai suteikia mums informacijos apie lankytojų skaičių, apsilankymų šaltinius ir svetainėje peržiūrėtus puslapius. Slapukai renka šiuos duomenis ir perduoda juos anonimiškai.
+		Google Analytics slapukai padeda suprasti, kaip mūsų lankytojai sąveikauja su svetaine. Jie padeda suprasti lankytojų skaičių, iš kur lankytojai atvyksta ir kokius puslapius jie naršo. Šie slapukai renka šiuos duomenis ir anonimiškai juos praneša.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

@@ -1551,7 +1551,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cookie-urile definite sub această categorie sunt absolut esențiale pentru funcționarea site-ului. De aceea, acestea sunt încărcate implicit, indiferent de consimțământul utilizatorului.
+		Cookie-urile definite în această categorie sunt absolut esențiale pentru funcționarea site-ului. Prin urmare, ele sunt încărcate în mod implicit, indiferent de consimțământul utilizatorului.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1641,7 +1641,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cookie-ul necesar este necesar pentru funcționarea completă a panoului dvs./sălii de webinar
+		Cookie-urile necesare sunt esențiale pentru funcționarea completă a contului și a sălilor de întâlnire
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1653,7 +1653,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cookie-urile Google Analytics ne ajută să înțelegem cum interacționează vizitatorii noștri cu site-ul web. Ne ajută să înțelegem numărul de vizitatori, de unde vin aceștia și paginile pe care le navighează. Cookie-urile colectează aceste date și sunt raportate în mod anonim.
+		Cookie-urile Google Analytics ne ajută să înțelegem cum interacționează vizitatorii noștri cu site-ul web. Ele ne ajută să înțelegem numărul de vizitatori, de unde provin și paginile pe care le navighează. Aceste cookie-uri colectează aceste date și le raportează anonim.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

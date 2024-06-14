@@ -1551,7 +1551,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Os cookies definidos nesta categoria são absolutamente essenciais para o site funcionar. Portanto, são carregados por padrão, independentemente do consentimento do usuário.
+		Os cookies definidos nesta categoria são absolutamente essenciais para o funcionamento do site. Portanto, eles são carregados por padrão, independentemente do consentimento do usuário.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1641,7 +1641,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Um cookie necessário é requerido para o funcionamento completo do seu painel/sala de webinar.
+		Os cookies necessários são essenciais para o funcionamento completo da sua conta e das salas de reuniões
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1653,7 +1653,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Os cookies do Google Analytics nos ajudam a entender como nossos visitantes interagem com o site. Eles nos auxiliam a entender o número de visitantes, de onde vêm e as páginas que navegam. Os cookies coletam esses dados e são relatados anonimamente.
+		Os cookies do Google Analytics nos ajudam a entender como nossos visitantes interagem com o site. Eles nos ajudam a entender o número de visitantes, de onde vêm e as páginas que navegam. Esses cookies coletam esses dados e os reportam anonimamente.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

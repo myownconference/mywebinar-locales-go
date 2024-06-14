@@ -1555,7 +1555,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I cookie necessari sono necessari per il corretto funzionamento del nostro sito Web, pannello di controllo e sala webinar. Vengono scaricati e utilizzati per impostazione predefinita, indipendentemente dal consenso dell’utente.
+		I cookie definiti in questa categoria sono assolutamente essenziali per il funzionamento del sito web. Pertanto, vengono caricati per impostazione predefinita indipendentemente dal consenso dell‘utente.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1645,7 +1645,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cookie obbligatorio necessario per il pieno funzionamento di un account personale/sala webinar.
+		I cookie necessari sono essenziali per il pieno funzionamento del tuo account e delle sale riunioni
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1657,7 +1657,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I cookie di Google Analytics ci aiutano a capire come interagite con il nostro sito web, il pannello di controllo e la sala webinar. Questo ci fornisce informazioni sul numero di visitatori, sulle fonti di visita e sulle pagine visualizzate sul nostro sito web. I cookies raccolgono questi dati e li trasmettono in forma anonima.
+		I cookie di Google Analytics ci aiutano a capire come i nostri visitatori interagiscono con il sito web. Ci aiutano a comprendere il numero di visitatori, da dove provengono e le pagine che navigano. Questi cookie raccolgono questi dati e li riportano in modo anonimo.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

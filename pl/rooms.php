@@ -1556,7 +1556,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wymagane pliki cookie są niezbędne do prawidłowego działania naszej strony internetowej, panelu użytkownika i pokoju webinarowego. Są one ładowane i używane domyślnie, niezależnie od Twojej zgody.
+		Pliki cookie zdefiniowane w tej kategorii są absolutnie niezbędne do funkcjonowania strony internetowej. Dlatego są one ładowane domyślnie, niezależnie od zgody użytkownika.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1646,7 +1646,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wymagany plik cookie niezbędny do prawidłowego działania strony internetowej, panelu użytkownika i pokoju webinarowego
+		Niezbędne pliki cookie są wymagane do pełnego funkcjonowania twojego konta i sal konferencyjnych
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1658,7 +1658,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pliki cookie Google Analytics pomagają nam zrozumieć, w jaki sposób korzystasz z naszej strony internetowej, panelu klienta i pokoju webinarowego. Dostarcza nam to informacje o liczbie odwiedzających, źródłach odwiedzin i przeglądanych stronach naszej witryny. Pliki cookie zbierają te dane i przesyłają je anonimowo.
+		Pliki cookie Google Analytics pomagają nam zrozumieć, jak nasi odwiedzający wchodzą w interakcje ze stroną internetową. Pomagają nam zrozumieć liczbę odwiedzających, skąd pochodzą i jakie strony przeglądają. Te pliki cookie zbierają te dane i raportują je anonimowo.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

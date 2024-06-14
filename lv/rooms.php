@@ -1554,7 +1554,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lai pareizi darbotos mūsu vietne, vadības panelis un vebināru telpa, ir nepieciešami sīkfaili. Tie tiek lejupielādēti un izmantoti pēc noklusējuma neatkarīgi no jūsu piekrišanas.
+		Šajā kategorijā definētās sīkdatnes ir absolūti nepieciešamas tīmekļa vietnes darbībai. Tādējādi tās tiek ielādētas pēc noklusējuma neatkarīgi no lietotāja piekrišanas.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1644,7 +1644,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Obligāts sīkdatne, kas nepieciešama jūsu personīgā konta / vebināra telpas pilnīgai darbībai.
+		Nepieciešamās sīkdatnes ir vajadzīgas jūsu konta un sapulču telpu pilnvērtīgai darbībai
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1656,7 +1656,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Analytics sīkfaili palīdz mums saprast, kā jūs mijiedarbojaties ar mūsu vietni, vadības paneli un vebināru istabu. Tas sniedz mums informāciju par apmeklētāju skaitu, apmeklējumu avotiem un tīmekļa vietnē apskatītajām lapām. Sīkdatnes vāc šos datus un nosūta tos anonīmi.
+		Google Analytics sīkdatnes palīdz mums saprast, kā mūsu apmeklētāji mijiedarbojas ar tīmekļa vietni. Tās palīdz mums saprast apmeklētāju skaitu, no kurienes apmeklētāji nāk un kuras lapas viņi pārlūko. Šīs sīkdatnes vāc šos datus un ziņo tos anonīmi.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////

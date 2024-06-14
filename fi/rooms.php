@@ -1551,7 +1551,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tämän luokan evästeet ovat ehdottoman välttämättömiä verkkosivuston toiminnalle. Siksi ne ladataan oletusarvoisesti riippumatta käyttäjän suostumuksesta.
+		Tähän luokkaan määritellyt evästeet ovat ehdottoman välttämättömiä verkkosivuston toiminnan kannalta. Siksi ne ladataan oletusarvoisesti riippumatta käyttäjän suostumuksesta.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -1641,7 +1641,7 @@ return [
 	'necessary-cookies-desc' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tarvittava eväste vaaditaan kojelaudan/webinaarihuoneen täydelliseen toimintaan
+		Välttämättömät evästeet ovat tarpeen tilisi ja kokoushuoneiden täysimääräisen toiminnan kannalta
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookie' => ///////////////////////////////////////////////////////////////////
@@ -1653,7 +1653,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Analytics -evästeet auttavat meitä ymmärtämään, miten kävijät ovat vuorovaikutuksessa verkkosivuston kanssa. Se auttaa meitä ymmärtämään kävijöiden määrän, mistä kävijät tulevat ja millä sivuilla he navigoivat. Evästeet keräävät nämä tiedot ja raportoidaan nimettömästi.
+		Google Analytics -evästeet auttavat meitä ymmärtämään, miten kävijämme ovat vuorovaikutuksessa verkkosivuston kanssa. Ne auttavat meitä ymmärtämään kävijöiden määrän, mistä kävijät tulevat ja mitä sivuja he selaavat. Nämä evästeet keräävät nämä tiedot ja raportoivat ne nimettömästi.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////
