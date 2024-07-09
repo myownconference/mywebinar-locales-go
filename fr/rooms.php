@@ -1795,7 +1795,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Guide d’installation</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Guide d’installation »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1951,7 +1951,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Aide</a>
+		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Aide</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2113,7 +2113,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nous avons hâte de commencer le webinaire, mais nous devrons attendre encore un peu. En attendant, nous vous recommandons de lire les <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">instructions pour les participants</a> au webinaire.
+		Nous avons hâte de commencer le webinaire, mais nous devrons attendre encore un peu. En attendant, nous vous recommandons de lire les <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">instructions pour les participants</a> au webinaire.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

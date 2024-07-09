@@ -1795,7 +1795,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Guia de instalação</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Guia de instalação »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1951,7 +1951,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Ajuda</a>
+		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Ajuda</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2113,7 +2113,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Não podemos esperar para começar o webinar, mas por favor, aguente um pouco mais. Enquanto isso, recomendamos que você leia <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">esta instrução</a> para o participante do Webinar.
+		Não podemos esperar para começar o webinar, mas por favor, aguente um pouco mais. Enquanto isso, recomendamos que você leia <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">esta instrução</a> para o participante do Webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

@@ -1791,7 +1791,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Installationsguide</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Installationsguide »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1947,7 +1947,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Hjälp</a>
+		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Hjälp</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2109,7 +2109,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vi kan inte vänta med att starta webbseminariet, men vänta lite till. Under tiden rekommenderar vi att du läser <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">denna instruktion</a> för webbinariedeltagaren.
+		Vi kan inte vänta med att starta webbseminariet, men vänta lite till. Under tiden rekommenderar vi att du läser <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">denna instruktion</a> för webbinariedeltagaren.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

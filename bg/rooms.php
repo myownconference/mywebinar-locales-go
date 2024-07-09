@@ -1793,7 +1793,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Ръководство за инсталиране</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Ръководство за инсталиране »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1949,7 +1949,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Помощ</a>
+		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Помощ</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2111,7 +2111,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Не можем да чакаме да започнем уебсана, но моля да задържите малко по-дълго. Междувременно ви препоръчваме да прочетете тази <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">инструкция</a> за уеб-канара.
+		Не можем да чакаме да започнем уебсана, но моля да задържите малко по-дълго. Междувременно ви препоръчваме да прочетете тази <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">инструкция</a> за уеб-канара.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

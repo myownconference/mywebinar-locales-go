@@ -1794,7 +1794,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Uzstādīšanas rokasgrāmata</a>
+		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Uzstādīšanas rokasgrāmata »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1950,7 +1950,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Palīdzība</a>
+		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Palīdzība</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2112,7 +2112,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mēs nevaram gaidīt, lai sāktu webināru, bet, lūdzu, turiet nedaudz ilgāk. Tikmēr mēs iesakām izlasīt <a href="https://myownconference.com/help/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">šo instrukciju</a> Webinar dalībniekam.
+		Mēs nevaram gaidīt, lai sāktu webināru, bet, lūdzu, turiet nedaudz ilgāk. Tikmēr mēs iesakām izlasīt <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">šo instrukciju</a> Webinar dalībniekam.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////

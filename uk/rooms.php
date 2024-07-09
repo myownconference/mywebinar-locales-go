@@ -1800,7 +1800,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/uk/help/article/bezpechna-tehnologiya-translyaciyi-txozmy/" target="_blank" rel="noopener noreferrer">Інструкція із встановлення</a>
+		<a href="https://support.myownconference.com/uk/article/bezpechna-tehnologiya-translyaciyi-txozmy/" target="_blank" rel="noopener noreferrer">Інструкція із встановлення »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1956,7 +1956,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/uk/help/article/pamyatka-dlya-uchasnikiv-5q6s31/" class="button" target="_blank" rel="noopener noreferrer">Допомога</a>
+		<a href="https://support.myownconference.com/uk/article/pamyatka-dlya-uchasnikiv-5q6s31/" class="button" target="_blank" rel="noopener noreferrer">Допомога</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2118,7 +2118,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ми теж не можемо дочекатись початку вебінару, але доведеться почекати ще трішки. А поки ми рекомендуємо вам прочитати <a href="https://myownconference.com/uk/help/article/pamyatka-dlya-uchasnikiv-5q6s31/" target="_blank" rel="noopener noreferrer">інструкцію для учасників вебінару</a>.
+		Ми теж не можемо дочекатись початку вебінару, але доведеться почекати ще трішки. А поки ми рекомендуємо вам прочитати <a href="https://support.myownconference.com/uk/article/pamyatka-dlya-uchasnikiv-5q6s31/" target="_blank" rel="noopener noreferrer">інструкцію для учасників вебінару</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-company_code' => //////////////////////////////////////////////////////////////
