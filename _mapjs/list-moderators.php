@@ -244,5 +244,6 @@ return [
 		'show-fav-ans',
 		'hide-fav-ans',
 		'confirm-fav-clear',
+		'whiteboard-tooltip-color',
 	],
 ];
