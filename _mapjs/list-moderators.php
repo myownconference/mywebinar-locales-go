@@ -75,6 +75,7 @@ return [
 		'reset',
 		'editor-confirm-reset',
 		'editor-confirm-exit',
+		'upload-btn',
 		'delete-btn',
 	],
 	'rooms' => [
@@ -245,5 +246,6 @@ return [
 		'hide-fav-ans',
 		'confirm-fav-clear',
 		'whiteboard-tooltip-color',
+		'storage-is-full',
 	],
 ];
