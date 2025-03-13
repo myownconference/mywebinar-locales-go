@@ -77,6 +77,7 @@ return [
 		'editor-confirm-exit',
 		'upload-btn',
 		'delete-btn',
+		'duplicate-confirm',
 	],
 	'rooms' => [
 		'save',
