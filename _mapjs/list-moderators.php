@@ -78,6 +78,8 @@ return [
 		'upload-btn',
 		'delete-btn',
 		'duplicate-confirm',
+		'room-mode-conference',
+		'room-mode-webinar',
 	],
 	'rooms' => [
 		'save',
@@ -248,7 +250,5 @@ return [
 		'confirm-fav-clear',
 		'whiteboard-tooltip-color',
 		'storage-is-full',
-		'room-mode-conference',
-		'room-mode-webinar',
 	],
 ];
