@@ -248,5 +248,7 @@ return [
 		'confirm-fav-clear',
 		'whiteboard-tooltip-color',
 		'storage-is-full',
+		'room-mode-conference',
+		'room-mode-webinar',
 	],
 ];
