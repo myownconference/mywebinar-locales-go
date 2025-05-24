@@ -78,6 +78,8 @@ return [
 		'upload-btn',
 		'delete-btn',
 		'duplicate-confirm',
+		'play-btn',
+		'play-btn-guests-only',
 	],
 	'rooms' => [
 		'save',
