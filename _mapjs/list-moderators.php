@@ -204,6 +204,7 @@ return [
 		'end-webinar-confirm',
 		'force-end-webinar',
 		'moderator-end-vebinar',
+		'moderator-start-record',
 		'moderator-end-record',
 		'webinar-ended-header',
 		'time-access-denied',
