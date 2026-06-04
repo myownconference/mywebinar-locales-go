@@ -255,13 +255,13 @@ return [
 	'alert-speak-access-devices' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hai negato l‘accesso alla videocamera e al microfono o non sono collegati al computer. Controlla l‘attrezzatura e aggiorna la pagina
+		Hai negato l‘accesso alla webcam e al microfono o non sono collegati al computer. Controlla l‘attrezzatura e aggiorna la pagina
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'alert-speak-no-permissions' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hai bloccato l‘accesso alla telecamera e al microfono nel browser. Ricarica la pagina e consenti al browser di utilizzare la fotocamera e il microfono. Oppure contatta il nostro team di supporto.
+		Hai bloccato l‘accesso alla webcam e al microfono nel browser. Ricarica la pagina e consenti al browser di utilizzare la webcam e il microfono. Oppure contatta il nostro team di supporto.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'alert-speak-webrtc-blocked' => //////////////////////////////////////////////////////
