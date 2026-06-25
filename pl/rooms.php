@@ -632,7 +632,7 @@ return [
 		Po dokonaniu płatności, Twój pokój webinarowy zostanie zwiększony o
 		<b><u>100 miejsc</u></b>.<br><br>Zwiększenie liczby miejsc będzie obowiązywało
 		przez <b><u>5 godzin</u></b>. Potem pojemność Twojego webinaru zostanie
-		zmniejszona do standardowej pojemności opłaconego przez Ciebie planu taryfowego.
+		zmniejszona do standardowej pojemności opłaconego przez Ciebie planu taryfowego.<br><br><b><i>Uwaga: to rozszerzenie pojemności dotyczy tylko tego webinaru i nie ma wpływu na Twoje inne webinary!</i></b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plus100question' => /////////////////////////////////////////////////////////////////

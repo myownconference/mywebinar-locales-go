@@ -630,7 +630,7 @@ return [
 		Sofort nach der erfolgreichen Zahlung wird die Kapazität des Webinars auf
 		<b><u>100 Plätze</u></b> erhöht.<br><br>Diese Erweiterung wird innerhalb von
 		<b><u>5 Stunden</u></b> gültig, wonach die Kapazität Ihres Webinars bis zum
-		Standardmaß des von Ihnen bezahlten Pakets gesenkt wird.
+		Standardmaß des von Ihnen bezahlten Pakets gesenkt wird.<br><br><b><i>Hinweis: Diese Kapazitätserweiterung gilt nur für dieses Webinar und betrifft nicht Ihre anderen Webinare!</i></b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plus100question' => /////////////////////////////////////////////////////////////////

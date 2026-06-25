@@ -627,7 +627,7 @@ return [
 	'plus100text' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		This option enables you to immediately purchase an extra <b><u>100 seats</u></b> for your webinar.<br><br>These seats will be available to your attendees for up to <b><u>5 hours</u></b> from the time they are purchased. After 5 hours the number of seats will revert back to your original package size.
+		This option enables you to immediately purchase an extra <b><u>100 seats</u></b> for your webinar.<br><br>These seats will be available to your attendees for up to <b><u>5 hours</u></b> from the time they are purchased. After 5 hours the number of seats will revert back to your original package size.<br><br><b><i>Please note: this capacity extension applies only to this webinar and does not affect your other webinars!</i></b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plus100question' => /////////////////////////////////////////////////////////////////
