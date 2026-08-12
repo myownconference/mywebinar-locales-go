@@ -1977,7 +1977,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Súgó</a>
+		<a href="https://myownconference.com/support/en/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Súgó</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2139,7 +2139,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alig várjuk, hogy elkezdjük a webináriumot, de kérjük, várjon még egy kicsit. Addig is javasoljuk, hogy olvassa el <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">ezt az utasítást</a> a webinárium résztvevőjének.
+		Alig várjuk, hogy elkezdjük a webináriumot, de kérjük, várjon még egy kicsit. Addig is javasoljuk, hogy olvassa el <a href="https://myownconference.com/support/en/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">ezt az utasítást</a> a webinárium résztvevőjének.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////

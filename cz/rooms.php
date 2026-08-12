@@ -1977,7 +1977,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Nápověda</a>
+		<a href="https://myownconference.com/support/en/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Nápověda</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2139,7 +2139,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nemůžeme se dočkat začátku webinaru, ale prosím ještě chvilku vydržte. Mezitím doporučujeme přečíst <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">tento návod</a> pro účastníky webinaru.
+		Nemůžeme se dočkat začátku webinaru, ale prosím ještě chvilku vydržte. Mezitím doporučujeme přečíst <a href="https://myownconference.com/support/en/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">tento návod</a> pro účastníky webinaru.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////

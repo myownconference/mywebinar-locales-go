@@ -1980,7 +1980,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Pagalba</a>
+		<a href="https://myownconference.com/support/en/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Pagalba</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2142,7 +2142,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Negalime laukti, kol pradėsime seminarą, bet laikykitės šiek tiek ilgiau. Tuo tarpu rekomenduojame perskaityti šį seminaro <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">dalyvio nurodymą.</a>
+		Negalime laukti, kol pradėsime seminarą, bet laikykitės šiek tiek ilgiau. Tuo tarpu rekomenduojame perskaityti šį seminaro <a href="https://myownconference.com/support/en/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">dalyvio nurodymą.</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////

@@ -1980,7 +1980,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Yardım</a>
+		<a href="https://myownconference.com/support/en/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Yardım</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2142,7 +2142,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web seminerini başlatmak için sabırsızlanıyoruz, ancak lütfen biraz daha uzun tutun. Bu arada, webinar katılımcısının bu <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">talimatını okumanızı</a> öneririz.
+		Web seminerini başlatmak için sabırsızlanıyoruz, ancak lütfen biraz daha uzun tutun. Bu arada, webinar katılımcısının bu <a href="https://myownconference.com/support/en/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">talimatını okumanızı</a> öneririz.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////

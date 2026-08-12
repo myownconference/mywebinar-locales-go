@@ -1977,7 +1977,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" class="button" target="_blank" rel="noopener noreferrer">Hulp</a>
+		<a href="https://myownconference.com/support/nl/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Hulp</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2139,7 +2139,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We kunnen niet wachten om het webinar te starten, maar wacht alsjeblieft nog even. Ondertussen raden we je aan om <a href="https://support.myownconference.com/en/article/attendees-user-guide-btu57d/" target="_blank" rel="noopener noreferrer">deze handleiding</a> te lezen voor de webinar-deelnemer.
+		We kunnen niet wachten om het webinar te starten, maar wacht alsjeblieft nog even. Ondertussen raden we je aan om <a href="https://myownconference.com/support/nl/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">deze handleiding</a> te lezen voor de webinar-deelnemer.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////
