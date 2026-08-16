@@ -813,7 +813,7 @@ return [
 	'presenter-s-sharing-slides' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		De presentator “%s“ deelt zijn dia‘s
+		De presentator “%s“ deelt zijn dia’s
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'presenter-s-sharing-video' => ///////////////////////////////////////////////////////
@@ -1683,7 +1683,7 @@ return [
 	'google-desc' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Analytics-cookies helpen ons te begrijpen hoe onze bezoekers omgaan met de website. Ze helpen ons het aantal bezoekers, waar ze vandaan komen en de pagina‘s die ze bezoeken te begrijpen. De cookies verzamelen deze gegevens en rapporteren deze anoniem.
+		Google Analytics-cookies helpen ons te begrijpen hoe onze bezoekers omgaan met de website. Ze helpen ons het aantal bezoekers, waar ze vandaan komen en de pagina’s die ze bezoeken te begrijpen. De cookies verzamelen deze gegevens en rapporteren deze anoniem.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc1' => ////////////////////////////////////////////////////////////
@@ -1701,7 +1701,7 @@ return [
 	'google-cookies-desc3' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Deze cookie wordt geïnstalleerd door Google Tag Manager. De cookie wordt gebruikt om informatie op te slaan over hoe bezoekers een website gebruiken en helpt bij het opstellen van een analyserapport over hoe de website presteert. De verzamelde gegevens omvatten het aantal bezoekers, de bron waar ze vandaan komen en de bezochte pagina‘s in anonieme vorm.
+		Deze cookie wordt geïnstalleerd door Google Tag Manager. De cookie wordt gebruikt om informatie op te slaan over hoe bezoekers een website gebruiken en helpt bij het opstellen van een analyserapport over hoe de website presteert. De verzamelde gegevens omvatten het aantal bezoekers, de bron waar ze vandaan komen en de bezochte pagina’s in anonieme vorm.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'google-cookies-desc4' => ////////////////////////////////////////////////////////////

@@ -1248,7 +1248,7 @@ return [
 	'high-quality-confirm' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kameranın maksimum kalitesini göstermek için siz ve katılımcılarınız için hızlı bir İnternet bağlantısına ihtiyacınız olacak (4 Mbit / sn‘den). Aksi takdirde, canlı uçurumlar, görüntü yapışması ve ses eksikliği olabilir.<br><br>Maksimum kalitede yayın için teknik gereklilikleri anlıyorsanız ve bu koşulları kabul ediyorsanız, aşağıdaki “Evet, katılıyorum“ kelimelerinin yanındaki kutuyu işaretleyin ve “Etkinleştir“ düğmesine tıklayın. Aksi takdirde, “İptal“ düğmesine tıklayın
+		Kameranın maksimum kalitesini göstermek için siz ve katılımcılarınız için hızlı bir İnternet bağlantısına ihtiyacınız olacak (4 Mbit / sn’den). Aksi takdirde, canlı uçurumlar, görüntü yapışması ve ses eksikliği olabilir.<br><br>Maksimum kalitede yayın için teknik gereklilikleri anlıyorsanız ve bu koşulları kabul ediyorsanız, aşağıdaki “Evet, katılıyorum“ kelimelerinin yanındaki kutuyu işaretleyin ve “Etkinleştir“ düğmesine tıklayın. Aksi takdirde, “İptal“ düğmesine tıklayın
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'high-quality-accept' => /////////////////////////////////////////////////////////////
@@ -1500,7 +1500,7 @@ return [
 	'view-records-end' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kayıt %s‘ye kadar erişilebilir
+		Kayıt %s’ye kadar erişilebilir
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-comments' => /////////////////////////////////////////////////////////////////////
