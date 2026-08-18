@@ -1825,7 +1825,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/broadcast-using-downloadable-add-on-low-data-mode/" target="_blank" rel="noopener noreferrer">Guida d’installazione »</a>
+		<a href="https://myownconference.com/support/it/rooms/alternative-broadcasting-technology" target="_blank" rel="noopener noreferrer">Guida d’installazione »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1981,7 +1981,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/support/en/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Aiuto</a>
+		<a href="https://myownconference.com/support/it/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Aiuto</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2143,7 +2143,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Non possiamo aspettare di iniziare il webinar, ma si prega di tenere un po ’più a lungo. Nel frattempo, ti consigliamo di leggere <a href="https://myownconference.com/support/en/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">questa istruzione</a>  per il partecipante del webinar.
+		Non possiamo aspettare di iniziare il webinar, ma si prega di tenere un po ’più a lungo. Nel frattempo, ti consigliamo di leggere <a href="https://myownconference.com/support/it/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">questa istruzione</a>  per il partecipante del webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////

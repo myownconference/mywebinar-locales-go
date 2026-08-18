@@ -1830,7 +1830,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/ru/alternative-video-streaming/" target="_blank" rel="noopener noreferrer">Кіраўніцтва па ўстаноўцы »</a>
+		<a href="https://myownconference.com/support/ru/rooms/alternative-broadcasting-technology" target="_blank" rel="noopener noreferrer">Кіраўніцтва па ўстаноўцы »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1986,7 +1986,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/ru/memo-ru/" class="button" target="_blank" rel="noopener noreferrer">Дапамога</a>
+		<a href="https://myownconference.com/support/ru/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Дапамога</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2148,7 +2148,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Мы не можам дачакацца, каб пачаць вебінар, але прыйдзецца пачакаць яшчэ трохі. У той жа час, мы рэкамендуем вам прачытаць <a href="https://myownconference.com/blog/ru/memo-ru/" target="_blank" rel="noopener noreferrer">інструкцыю</a> для ўдзельнікаў вебінару.
+		Мы не можам дачакацца, каб пачаць вебінар, але прыйдзецца пачакаць яшчэ трохі. У той жа час, мы рэкамендуем вам прачытаць <a href="https://myownconference.com/support/ru/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">інструкцыю</a> для ўдзельнікаў вебінару.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////

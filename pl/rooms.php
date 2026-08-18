@@ -1826,7 +1826,7 @@ return [
 	'install-manual' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/pl/alternatywna-technologia-transmisji-wideo/" target="_blank" rel="noopener noreferrer">Instrukcja instalacji »</a>
+		<a href="https://myownconference.com/support/pl/rooms/alternative-broadcasting-technology" target="_blank" rel="noopener noreferrer">Instrukcja instalacji »</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sharing-manual-header' => ///////////////////////////////////////////////////////////
@@ -1982,7 +1982,7 @@ return [
 	'link-format-help' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/pl/instrukcja-dla-uczestnika-webinaru/" class="button" target="_blank" rel="noopener noreferrer">Pomoc</a>
+		<a href="https://myownconference.com/support/pl/rooms/attendee-guide" class="button" target="_blank" rel="noopener noreferrer">Pomoc</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'confirm-delete-avatar' => ///////////////////////////////////////////////////////////
@@ -2144,7 +2144,7 @@ return [
 	'wait-before-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nie możemy się doczekać rozpoczęcia webinaru, ale musimy poczekać trochę dłużej. W międzyczasie zalecamy zapoznać się z <a href="https://myownconference.com/blog/pl/instrukcja-dla-uczestnika-webinaru/" target="_blank" rel="noopener noreferrer">instrukcją dla uczestnika webinaru</a>.
+		Nie możemy się doczekać rozpoczęcia webinaru, ale musimy poczekać trochę dłużej. W międzyczasie zalecamy zapoznać się z <a href="https://myownconference.com/support/pl/rooms/attendee-guide" target="_blank" rel="noopener noreferrer">instrukcją dla uczestnika webinaru</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-tin' => ///////////////////////////////////////////////////////////////////////
