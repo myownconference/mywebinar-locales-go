@@ -1542,7 +1542,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kasutame küpsiseid (ja muid sarnaseid tehnoloogiaid), et parandada teie kogemust meie veebisaidil, kontol ja koosolekuruumides. Seda veebisaiti kasutades nõustute meie <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privaatsuspoliitikaga</a>.
+		Kasutame küpsiseid (ja muid sarnaseid tehnoloogiaid), et parandada teie kogemust meie veebisaidil, kontol ja koosolekuruumides. Seda veebisaiti kasutades nõustute meie <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">privaatsuspoliitikaga</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

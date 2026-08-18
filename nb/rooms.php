@@ -1539,7 +1539,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vi bruker informasjonskapsler (og andre lignende teknologier) for å forbedre opplevelsen din på nettstedet vårt, kontoen din og i møterommene. Ved å bruke dette nettstedet, godtar du vår <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">personvernerklæring</a>
+		Vi bruker informasjonskapsler (og andre lignende teknologier) for å forbedre opplevelsen din på nettstedet vårt, kontoen din og i møterommene. Ved å bruke dette nettstedet, godtar du vår <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">personvernerklæring</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

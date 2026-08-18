@@ -1542,7 +1542,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mes naudojame slapukus (ir kitas panašias technologijas), kad pagerintume jūsų patirtį mūsų svetainėje, paskyroje ir susitikimų kambariuose. Naudodamiesi šia svetaine, jūs sutinkate su mūsų <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privatumo politika</a>.
+		Mes naudojame slapukus (ir kitas panašias technologijas), kad pagerintume jūsų patirtį mūsų svetainėje, paskyroje ir susitikimų kambariuose. Naudodamiesi šia svetaine, jūs sutinkate su mūsų <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">privatumo politika</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

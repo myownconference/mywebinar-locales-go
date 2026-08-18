@@ -1539,7 +1539,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Käytämme evästeitä (ja muita vastaavia tekniikoita) parantaaksemme kokemustasi sivustollamme, tililläsi ja kokoushuoneissa. Käyttämällä tätä verkkosivustoa hyväksyt meidän <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">tietosuojakäytäntömme</a>.
+		Käytämme evästeitä (ja muita vastaavia tekniikoita) parantaaksemme kokemustasi sivustollamme, tililläsi ja kokoushuoneissa. Käyttämällä tätä verkkosivustoa hyväksyt meidän <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">tietosuojakäytäntömme</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

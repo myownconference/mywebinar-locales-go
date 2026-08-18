@@ -1539,7 +1539,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We gebruiken cookies (en andere vergelijkbare technologieën) om je ervaring op onze site, account en in de vergaderzalen te verbeteren. Door deze website te gebruiken, ga je akkoord met ons <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privacybeleid</a>.
+		We gebruiken cookies (en andere vergelijkbare technologieën) om je ervaring op onze site, account en in de vergaderzalen te verbeteren. Door deze website te gebruiken, ga je akkoord met ons <a href="https://myownconference.com/nl/privacy-policy" target="_blank" rel="noopener noreferrer">privacybeleid</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

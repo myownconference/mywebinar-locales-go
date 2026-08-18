@@ -1542,7 +1542,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sitemizdeki, hesabınızdaki ve toplantı odalarındaki deneyiminizi geliştirmek için çerezler (ve diğer benzer teknolojiler) kullanıyoruz. Bu web sitesini kullanarak <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">gizlilik politikamızı</a> kabul etmiş oluyorsunuz.
+		Sitemizdeki, hesabınızdaki ve toplantı odalarındaki deneyiminizi geliştirmek için çerezler (ve diğer benzer teknolojiler) kullanıyoruz. Bu web sitesini kullanarak <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">gizlilik politikamızı</a> kabul etmiş oluyorsunuz.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

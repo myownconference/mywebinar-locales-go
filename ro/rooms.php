@@ -1539,7 +1539,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Folosim cookie-uri (și alte tehnologii similare) pentru a îmbunătăți experiența dvs. pe site-ul nostru, cont și în sălile de întâlnire. Utilizând acest site web, sunteți de acord cu <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politica noastră de confidențialitate</a>.
+		Folosim cookie-uri (și alte tehnologii similare) pentru a îmbunătăți experiența dvs. pe site-ul nostru, cont și în sălile de întâlnire. Utilizând acest site web, sunteți de acord cu <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">politica noastră de confidențialitate</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

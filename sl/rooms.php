@@ -1539,7 +1539,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uporabljamo piškotke (in druge podobne tehnologije), da izboljšamo vašo izkušnjo na naši strani, računu in v sejnih sobah. Z uporabo te spletne strani se strinjate z našo <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politiko zasebnosti</a>.
+		Uporabljamo piškotke (in druge podobne tehnologije), da izboljšamo vašo izkušnjo na naši strani, računu in v sejnih sobah. Z uporabo te spletne strani se strinjate z našo <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">politiko zasebnosti</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

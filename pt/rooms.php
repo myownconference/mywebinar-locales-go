@@ -1543,7 +1543,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utilizamos cookies (e outras tecnologias semelhantes) para melhorar a sua experiência no nosso site, na sua conta e nas salas de reuniões. Ao usar este site, você concorda com a nossa <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">política de privacidade</a>.
+		Utilizamos cookies (e outras tecnologias semelhantes) para melhorar a sua experiência no nosso site, na sua conta e nas salas de reuniões. Ao usar este site, você concorda com a nossa <a href="https://myownconference.com/pt/privacy-policy" target="_blank" rel="noopener noreferrer">política de privacidade</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

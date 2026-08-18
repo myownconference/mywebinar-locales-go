@@ -1539,7 +1539,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sütiket (és más hasonló technológiákat) használunk, hogy javítsuk az Ön élményét a weboldalunkon, fiókjában és a tárgyalótermekben. A weboldal használatával elfogadja az <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">adatvédelmi irányelveinket</a>.
+		Sütiket (és más hasonló technológiákat) használunk, hogy javítsuk az Ön élményét a weboldalunkon, fiókjában és a tárgyalótermekben. A weboldal használatával elfogadja az <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">adatvédelmi irányelveinket</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
